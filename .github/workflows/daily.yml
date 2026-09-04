@@ -16,6 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install video dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          pip install pillow
+
       - name: Generate AI content with Groq
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -30,27 +37,31 @@ jobs:
               "messages": [
                 {
                   "role": "system",
-                  "content": "You are a professional short-form content creator. Create interesting, factual, entertaining content for a global TikTok audience. Use simple English that international viewers can understand. Include a Burmese translation so Myanmar viewers can also understand it. Avoid politics, harmful misinformation, medical claims, and copyrighted text."
+                  "content": "You are a professional short-form content creator. Create original, factual and entertaining content for a global audience. Use simple English. Also provide a Burmese translation. Avoid politics, harmful misinformation, medical claims and copyrighted text."
                 },
                 {
                   "role": "user",
-                  "content": "Create one original TikTok content idea for today. Return exactly these sections: TITLE, HOOK, SCRIPT_ENGLISH, SCRIPT_BURMESE, CAPTION, HASHTAGS. Topic can be Interesting Facts, Psychology, Technology, AI, Space, Animals, History, Life Tips, or Amazing Facts. Make it suitable for a 30-second vertical video."
+                  "content": "Create one original TikTok idea for today. Return exactly these sections: TITLE, HOOK, SCRIPT_ENGLISH, SCRIPT_BURMESE, CAPTION, HASHTAGS. Choose from Interesting Facts, Psychology, Technology, AI, Space, Animals, History, Life Tips, or Amazing Facts. Make it suitable for a short vertical video."
                 }
               ],
               "temperature": 0.8,
-              "max_tokens": 800
+              "max_tokens": 900
             }')
 
           echo "$RESPONSE" | jq -r '.choices[0].message.content' > output/daily-content.txt
 
-          echo "" >> output/daily-content.txt
-          echo "Generated UTC: $(date -u)" >> output/daily-content.txt
-
-          if grep -q "^null$" output/daily-content.txt; then
+          if [ ! -s output/daily-content.txt ] || grep -q "^null$" output/daily-content.txt; then
             echo "Groq generation failed."
             echo "$RESPONSE"
             exit 1
           fi
+
+          echo "" >> output/daily-content.txt
+          echo "Generated UTC: $(date -u)" >> output/daily-content.txt
+
+      - name: Create TikTok video
+        run: |
+          python video_generator.py
 
       - name: Commit generated content
         run: |
@@ -58,5 +69,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add output/daily-content.txt
-          git commit -m "Generate daily AI content" || echo "No changes to commit"
+          git commit -m "Generate daily AI content" || echo "No content changes"
           git push
+
+      - name: Upload TikTok video
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-tiktok-video
+          path: output/videos/daily-tiktok.mp4
+          if-no-files-found: error
