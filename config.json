@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "name": "Global AI Content",
+    "language": "English",
+    "secondary_language": "Burmese"
+  },
+  "content": {
+    "categories": [
+      "Interesting Facts",
+      "Psychology",
+      "Technology",
+      "AI",
+      "Space",
+      "Animals",
+      "History",
+      "Life Tips",
+      "Amazing Facts"
+    ],
+    "video_duration_seconds": 30,
+    "posts_per_day": 1
+  },
+  "style": {
+    "tone": "interesting, simple, entertaining",
+    "format": "short vertical video",
+    "aspect_ratio": "9:16"
+  }
+}
