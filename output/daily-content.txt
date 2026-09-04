@@ -1,4 +1,30 @@
-Global AI Content
-Generated at: Fri Sep  4 10:20:25 UTC 2026
-Category: Interesting Facts
-Topic: A surprising fact about the world
+**TITLE**  
+Tiny but Tough: The Space‑Surviving Water Bear  
+
+**HOOK**  
+Did you know a tiny water bear can survive in space?  
+
+**SCRIPT_ENGLISH**  
+[0:00‑0:03] *Show a cute animated water bear.*  
+“Hey TikTok! Meet the water bear – or Tardigrade – the world’s toughest little creature.”  
+
+[0:04‑0:12] *Show images of extreme environments: deep sea, desert, space.*  
+“It can live in the deepest ocean, the hottest desert, and even the vacuum of space. How? It goes into a dry, frozen state called cryptobiosis and shuts down almost all of its metabolism.”  
+
+[0:13‑0:20] *Show a quick animation of a water bear in space.*  
+“In 2007, astronauts sent one to the International Space Station. After 10 days, it was still alive, rehydrated, and ready to move again.”  
+
+[0:21‑0:24] *Show a fun “Did you know?” graphic.*  
+“That’s one tiny creature that can out‑live the Sun’s lifespan! Amazing, right?”  
+
+[0:25‑0:27] *Show a thumbs‑up icon.*  
+“Drop a comment if you’re wowed, and hit follow for more weird facts!”  
+
+**SCRIPT_BURMESE**  
+[0:00‑0:03] *သစ်တောကောင်ပုံပြင်ထဲသို့*  
+“ဟယ်လို TikTok! ဤသစ်တောကောင်သို့မဟုတ် Tardigrade ကိုတွေ့လိုက်ပါ။ ၎င်းသည် ကမ္ဘာ့အကြီးအကျယ်ဆုံး တိရစ္ဆာန်ဖြစ်သည်။”  
+
+[0:04‑0:12] *အချိုးမတူညီသော ပတ်ဝန်းကျင်များပြသပါ: ဗဟိုသမား၊ မီးသို့မဟုတ် အာကာသ။*  
+“၎င်းသည် အနောက်ဆုံး ဗဟိုသမား၊ အပူဆုံး မီးကွင်း၊ သို့မဟုတ် အာကာသအခွင့်အရေးများတွင်နေထိုင်နိုင်သည်။ ၎င်းသည် cryptobiosis ဟုခေါ်သော သက်မဟုတ်
+
+Generated UTC: Fri Sep  4 14:12:31 UTC 2026
