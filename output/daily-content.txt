@@ -1,30 +1,19 @@
 **TITLE**  
-Tiny but Tough: The Space‑Surviving Water Bear  
+Wooden Mouse: The First Computer Mouse  
 
 **HOOK**  
-Did you know a tiny water bear can survive in space?  
+Think the mouse is a modern gadget? Think again!  
 
 **SCRIPT_ENGLISH**  
-[0:00‑0:03] *Show a cute animated water bear.*  
-“Hey TikTok! Meet the water bear – or Tardigrade – the world’s toughest little creature.”  
-
-[0:04‑0:12] *Show images of extreme environments: deep sea, desert, space.*  
-“It can live in the deepest ocean, the hottest desert, and even the vacuum of space. How? It goes into a dry, frozen state called cryptobiosis and shuts down almost all of its metabolism.”  
-
-[0:13‑0:20] *Show a quick animation of a water bear in space.*  
-“In 2007, astronauts sent one to the International Space Station. After 10 days, it was still alive, rehydrated, and ready to move again.”  
-
-[0:21‑0:24] *Show a fun “Did you know?” graphic.*  
-“That’s one tiny creature that can out‑live the Sun’s lifespan! Amazing, right?”  
-
-[0:25‑0:27] *Show a thumbs‑up icon.*  
-“Drop a comment if you’re wowed, and hit follow for more weird facts!”  
+In 1964, Douglas Engelbart invented the first computer mouse. It was a simple wooden shell with two metal wheels—no electronics, just a wooden box that let a screen move!  
 
 **SCRIPT_BURMESE**  
-[0:00‑0:03] *သစ်တောကောင်ပုံပြင်ထဲသို့*  
-“ဟယ်လို TikTok! ဤသစ်တောကောင်သို့မဟုတ် Tardigrade ကိုတွေ့လိုက်ပါ။ ၎င်းသည် ကမ္ဘာ့အကြီးအကျယ်ဆုံး တိရစ္ဆာန်ဖြစ်သည်။”  
+1964 ခုနှစ်တွင် Douglas Engelbart သည် ပထမဆုံးကွန်ပျူတာမောက်စ်ကို ဖန်တီးခဲ့သည်။ သဲလွန်တဲ့သတ္တုမီးနှင့် ပင်လယ်လှေကွက်များအပါအဝင် သစ်သားအပြားအခင်းတစ်ခုသာဖြစ်ခဲ့ပြီး၊ စကရင်ထဲက မောင်းတော်တစ်ခွင်ကို လှုပ်ရှားစေခဲ့သည်။  
 
-[0:04‑0:12] *အချိုးမတူညီသော ပတ်ဝန်းကျင်များပြသပါ: ဗဟိုသမား၊ မီးသို့မဟုတ် အာကာသ။*  
-“၎င်းသည် အနောက်ဆုံး ဗဟိုသမား၊ အပူဆုံး မီးကွင်း၊ သို့မဟုတ် အာကာသအခွင့်အရေးများတွင်နေထိုင်နိုင်သည်။ ၎င်းသည် cryptobiosis ဟုခေါ်သော သက်မဟုတ်
+**CAPTION**  
+From wood to wireless: the journey of the mouse.  
 
-Generated UTC: Fri Sep  4 14:12:31 UTC 2026
+**HASHTAGS**  
+#TechHistory #ComputerMouse #AmazingFacts #HistoryOfTech #Innovation  
+
+Generated UTC: Fri Sep  4 14:44:54 UTC 2026
