@@ -1,0 +1,33 @@
+name: Daily Content Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate daily content
+        run: |
+          mkdir -p output
+          echo "Global AI Content" > output/daily-content.txt
+          echo "Generated at: $(date -u)" >> output/daily-content.txt
+          echo "Category: Interesting Facts" >> output/daily-content.txt
+          echo "Topic: A surprising fact about the world" >> output/daily-content.txt
+
+      - name: Commit generated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Generate daily content" || echo "No changes to commit"
+          git push
