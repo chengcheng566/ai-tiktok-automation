@@ -1,19 +1,38 @@
 **TITLE**  
-Wooden Mouse: The First Computer Mouse  
+Amazing Fact: The Oldest Living Animal on Earth  
 
 **HOOK**  
-Think the mouse is a modern gadget? Think again!  
+Did you know a clam could be older than your great‑grandparents?  
 
 **SCRIPT_ENGLISH**  
-In 1964, Douglas Engelbart invented the first computer mouse. It was a simple wooden shell with two metal wheels—no electronics, just a wooden box that let a screen move!  
+[0‑5s] *Camera zooms in on a shiny sea‑clam in a tank.*  
+“Hey TikTok! Meet the Ocean Quahog clam – the world’s oldest living animal.”  
+
+[6‑15s] *Show a diagram of a clam’s shell layers.*  
+“This tiny creature lives in the cold Atlantic waters and can grow up to 20 feet long, but its real star is its age.”  
+
+[16‑25s] *Show a photo of a 500‑year‑old clam.*  
+“Scientists have found a clam that’s over 500 years old! That’s older than the first English king, Henry VII.”  
+
+[26‑35s] *Quick montage of ancient artifacts vs. the clam.*  
+“While the Great Pyramid is 4,500 years old, this clam has survived 500 winters, 500 summers, and 500 years of history.”  
+
+[36‑45s] *End with a call‑to‑action.*  
+“If you’re amazed, hit like, share, and follow for more surprising facts. And remember: sometimes the smallest things have the biggest stories!”  
 
 **SCRIPT_BURMESE**  
-1964 ခုနှစ်တွင် Douglas Engelbart သည် ပထမဆုံးကွန်ပျူတာမောက်စ်ကို ဖန်တီးခဲ့သည်။ သဲလွန်တဲ့သတ္တုမီးနှင့် ပင်လယ်လှေကွက်များအပါအဝင် သစ်သားအပြားအခင်းတစ်ခုသာဖြစ်ခဲ့ပြီး၊ စကရင်ထဲက မောင်းတော်တစ်ခွင်ကို လှုပ်ရှားစေခဲ့သည်။  
+[0‑5s] *ကင်မရာသည် ပင်လယ်ကလစ်တစ်ခုအပေါ်သို့ zoom လုပ်သည်။*  
+“မင်္ဂလာပါ TikTok! Ocean Quahog clam ကိုတွေ့ကြပါစို့ – ကမ္ဘာ့အကောင်းဆုံး အသက်ရှင်သည့် တိရစ္ဆာန်!”  
 
-**CAPTION**  
-From wood to wireless: the journey of the mouse.  
+[6‑15s] *ကလစ်တစ်ခု၏ shell layer diagram ကို ပြသသည်။*  
+“အဲဒီသေးငယ်တဲ့တိရစ္ဆာန်က သဲလွန်သော Atlantic ပင်လယ်ရေထဲမှာ နေထိုင်ပြီး၊ 20 လက်မအထိ ကြီးထွားနိုင်တယ်၊ ဒါပေမဲ့ အမှန်တကယ် ထင်ရှားတဲ့အရာက အရွယ်အစားပါ။”  
 
-**HASHTAGS**  
-#TechHistory #ComputerMouse #AmazingFacts #HistoryOfTech #Innovation  
+[16‑25s] *500 နှစ်အထက်သောကလစ်တစ်ခု၏ဓာတ်ပုံကို ပြသသည်။*  
+“သုတေသနဆိုင်ရာများက 500 နှစ်ထက်ပိုသောကလစ်တစ်ခုတွေ့ရှိထားတယ်။ ဒါဟာ Henry VII တစ်ဦးထက်အဟောင်းတစ်ခုပါ!”  
 
-Generated UTC: Fri Sep  4 14:44:54 UTC 2026
+[26‑35s] *အဟောင်းအမှတ်တရအနုပညာနှင့်ကလစ်တစ်ခု၏ montage ကို ပြသသည်။*  
+“Great Pyramid ဟာ 4,500 နှစ်အဟောင်းပဲ၊ ဒါပေမဲ့ ဒီကလစ်က 500 နွေရာသီ၊ 500 တွန့်ရာသီ၊ 500 နှစ်တစ်သက်လုံးတည်ရှိနေတယ်။”  
+
+[36‑45s] *အဆုံးတွင်
+
+Generated UTC: Sat Sep  5 02:15:35 UTC 2026
