@@ -1,13 +1,33 @@
 **TITLE**  
-The Biggest Living Thing on Earth  
+The World’s Oldest Living Tree: 9,500 Years of History  
 
 **HOOK**  
-Think the blue whale is the biggest thing on Earth? Meet the giant fungus that covers an entire town!  
+Ever wondered how a tree can live for almost 10,000 years? Meet the oldest living tree on Earth!  
 
 **SCRIPT_ENGLISH**  
-Hey TikTok!  
-Think the blue whale is the biggest?  
-Meet the Honey Mushroom in Oregon’s Blue Mountains.  
-It covers 2,385 acres—3.7 square miles—bigger than a small city!
+[Clip 1 – close‑up of a rugged pine trunk]  
+“Welcome to the desert of the Sierra Nevada, where a tiny pine tree has been growing for 9,500 years.”  
 
-Generated UTC: Mon Sep  7 02:18:04 UTC 2026
+[Clip 2 – map animation pointing to California]  
+“This bristlecone pine, called ‘Methuselah,’ is about as old as the first cities in Mesopotamia.”  
+
+[Clip 3 – slow‑motion of leaves]  
+“Why is it so long‑lived? Its bark is thick, its roots are shallow, and it lives in a cold, dry climate that slows down decay.”  
+
+[Clip 4 – final shot of the tree with a sunrise]  
+“So next time you see a tree, remember it could be older than the pyramids. Nature’s own time machine.”  
+
+**SCRIPT_BURMESE**  
+[Clip 1 – ချိုက်ကပ်သမီးကနေဝမ်းတည်တဲ့ တစ်ကွက်ပင်သီး]  
+“ကျွန်တော်တို့ Sierra Nevada တောင်တန်းတစ်ခုက မီးထွားသည့် မိုက်တစ်သီးကိုတွေ့ကြမယ်။ 9,500 နှစ်အထိ တက်တတ်သေးတဲ့ပင်သီးပါ။”  
+
+[Clip 2 – မြေပုံအနုပညာသွားကာ ကယ်လီဖိုးနီးယားကိုပြသ]  
+“ဤ bristlecone pine ကို ‘Methuselah’ လို့ခေါ်တယ်။ မျိုးဆက်အရောင်းက အထူးသဖြင့် မိုက်တစ်သီးတစ်ခုဟာ မုန်တစ်ထပ်သီးမဟုတ်ပါ။”  
+
+[Clip 3 – လှုပ်ရှားသည့် မိုးလေထဲက သွားသွားသည့် လှိုင်းသံ]  
+“အထောက်အကူအရပ်အနေအထားမှာ တစ်ထပ်သီးတစ်ထပ်သီးနဲ့ လေထဲက မီးထွားသည့်အလွှာတစ်ခုက ပင်သီးကိုအလွန်ရှည်ရှည်သက်တမ်းအောင်ထိန်းသိမ်းပေးတယ်။”  
+
+[Clip 4 – တောက်လှတဲ့ ဦးတည့်သည့် မီးလောင်သော တစ်ကွက်ပင်သီး]  
+“အောက်ကောင်းသော ပင်သီးတစ်ခုအနေဖြင့် သင်ဟာအမည်မသိတဲ့
+
+Generated UTC: Tue Sep  8 02:16:36 UTC 2026
