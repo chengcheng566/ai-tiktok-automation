@@ -1,25 +1,28 @@
 **TITLE**  
-The Largest Living Organism on Earth  
+How 5G Works in 30 Seconds  
 
 **HOOK**  
-Think trees are the biggest? Think again!  
+Ever wonder how your phone can download a movie in seconds? Let’s break down 5G in just 30 seconds!  
 
 **SCRIPT_ENGLISH**  
-[0‑3 sec] “Hey TikTok! Did you know the biggest living thing on Earth isn’t a tree or a whale?”  
-[3‑7 sec] “It’s a fungus in Oregon’s Malheur National Forest.”  
-[7‑12 sec] “The Armillaria ostoyae mycelium spreads underground over 2,400 acres – about the size of a small country!”  
-[12‑15 sec] “It’s older than the dinosaurs and still growing. That’s one giant mushroom network, folks!”  
+1. **(0‑3s)** “Hi TikTok! Today we’re diving into 5G, the next‑gen internet.”  
+2. **(3‑10s)** “5G uses tiny, super‑fast waves called millimeter‑wave. Think of it like a super‑highway for data.”  
+3. **(10‑17s)** “It can push 10 gigabits per second— that’s 10,000 megabytes in one second!”  
+4. **(17‑24s)** “Because of its speed, 5G lets you stream 4K, play VR, and even power self‑driving cars.”  
+5. **(24‑30s)** “So next time you’re watching a movie, remember: 5G is the invisible driver behind the speed!”  
 
 **SCRIPT_BURMESE**  
-[0‑3 sec] “ဟယ်လို TikTok! သမီးသီးက သစ်သီးကဲ့သို့ အကြီးဆုံး သမီးသီးမဟုတ်ပါဘူးဆိုတာသိသလား?”  
-[3‑7 sec] “အိုရီဂွန်နိုင်ငံတော်သစ်အုပ်ထဲရှိ Armillaria ostoyae ဆိုတဲ့ သမီးသီးက အောက်မြှောက်က ၂,၄၀၀ အကဲကျပ်တည်းရှိပါတယ်။”  
-[7‑12 sec] “အဲ့ဒီက သစ်သီးထက်လည်း ကြီးပြီး ဒိုင်နိုဆာရပ်ပြီးတဲ့အချိန်ထက်ဟာသစ်သီးထက်လည်း ကြီးတယ်။”  
-[12‑15 sec] “အဲ့ဒီအထောက်အထားက သမီးသီးကထဲက တစ်ကမ္ဘာလုံးအရွယ်က ဂျင်းတစ်ခုပါ။”  
+1. **(0‑3s)** “မင်္ဂလာပါ TikTok! ဒီနေ့က 5G, နောက်တစ်ဆင့်အင်တာနက်ကိုသွားကြမယ်။”  
+2. **(3‑10s)** “5G သည် millimeter‑wave ဟုခေါ်သည့် တစ်သိန်းတစ်ကျပ်မြန်သော မီးသီးသံသံကိုသုံးပါတယ်။ ဒေတာအတွက် အထူးသီးသန့်လမ်းကြောင်းတစ်ခုလိုပါ။”  
+3. **(10‑17s)** “10 gigabits တစ်စက္ကန့်— ဒါက 10,000 megabytes တစ်စက္ကန့်တစ်ခါထဲမှာသွားနိုင်တယ်!”  
+4. **(17‑24s)** “အဲ့ဒီအမြန်နှုန်းကြောင့် 5G သည် 4K စီးရီးစီးရီး၊ VR ကစားနဲ့ ကိုယ်ပိုင်မောင်းသွားယာဉ်တို့ကိုလည်း ထောက်ပံ့နိုင်ပါတယ်။”  
+5. **(24‑30s)** “အဲ့ဒါကြောင့် တစ်ခါတစ်ရံ မာတိကာကြည့်တဲ့အခါ 5G သည် အမြန်နှုန်းနောက်ကွယ်ကနေ ထုတ်လွှင့်တဲ့ မျက်နှာမပြင်တဲ့ မိုက်ကန်ထောက်ပံ့တဲ့ မီးသီးသံသံပါပဲ!”  
 
 **CAPTION**  
-The giant underground network that covers 2,400 acres in Oregon! 🌱🦀  
+5G explained in 30 seconds! 🚀  
+Learn how your phone’s super‑fast internet is made possible.  
 
 **HASHTAGS**  
-#AmazingFact #Fungus #Nature #Science #DidYouKnow #Oregon #Mycelium #NatureLovers
+#Technology #5G #FutureTech #ScienceSimplified #TikTokScience #LearnOnTikTok #Short
 
-Generated UTC: Wed Sep  9 02:16:51 UTC 2026
+Generated UTC: Thu Sep 10 02:16:40 UTC 2026
