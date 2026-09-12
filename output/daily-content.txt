@@ -1,28 +1,19 @@
 **TITLE**  
-How 5G Works in 30 Seconds  
+The Real Reason Computers Get “Bugs”
 
 **HOOK**  
-Ever wonder how your phone can download a movie in seconds? Let’s break down 5G in just 30 seconds!  
+Think bugs are only in your code? The first one was a real moth!
 
 **SCRIPT_ENGLISH**  
-1. **(0‑3s)** “Hi TikTok! Today we’re diving into 5G, the next‑gen internet.”  
-2. **(3‑10s)** “5G uses tiny, super‑fast waves called millimeter‑wave. Think of it like a super‑highway for data.”  
-3. **(10‑17s)** “It can push 10 gigabits per second— that’s 10,000 megabytes in one second!”  
-4. **(17‑24s)** “Because of its speed, 5G lets you stream 4K, play VR, and even power self‑driving cars.”  
-5. **(24‑30s)** “So next time you’re watching a movie, remember: 5G is the invisible driver behind the speed!”  
+Hey TikTok! Ever wonder why we say “computer bug”? In 1947, engineers at Harvard found a moth trapped in a relay of the Mark II computer. They taped it into the logbook with the note “First actual bug found.” That’s how the term stuck! Next time you spot a bug, remember it might have started with a moth.  
 
 **SCRIPT_BURMESE**  
-1. **(0‑3s)** “မင်္ဂလာပါ TikTok! ဒီနေ့က 5G, နောက်တစ်ဆင့်အင်တာနက်ကိုသွားကြမယ်။”  
-2. **(3‑10s)** “5G သည် millimeter‑wave ဟုခေါ်သည့် တစ်သိန်းတစ်ကျပ်မြန်သော မီးသီးသံသံကိုသုံးပါတယ်။ ဒေတာအတွက် အထူးသီးသန့်လမ်းကြောင်းတစ်ခုလိုပါ။”  
-3. **(10‑17s)** “10 gigabits တစ်စက္ကန့်— ဒါက 10,000 megabytes တစ်စက္ကန့်တစ်ခါထဲမှာသွားနိုင်တယ်!”  
-4. **(17‑24s)** “အဲ့ဒီအမြန်နှုန်းကြောင့် 5G သည် 4K စီးရီးစီးရီး၊ VR ကစားနဲ့ ကိုယ်ပိုင်မောင်းသွားယာဉ်တို့ကိုလည်း ထောက်ပံ့နိုင်ပါတယ်။”  
-5. **(24‑30s)** “အဲ့ဒါကြောင့် တစ်ခါတစ်ရံ မာတိကာကြည့်တဲ့အခါ 5G သည် အမြန်နှုန်းနောက်ကွယ်ကနေ ထုတ်လွှင့်တဲ့ မျက်နှာမပြင်တဲ့ မိုက်ကန်ထောက်ပံ့တဲ့ မီးသီးသံသံပါပဲ!”  
+မင်္ဂလာပါ TikTok! မင်းကွန်ပျူတာထဲက “bug” ဆိုတဲ့ စကားလုံးအဓိပ္ပါယ်ကိုမေးထားတယ်ဆိုရင်၊ ပထမဆုံးက သဲသဲတစ်ကောင်တစ်ခုကတစ်ရက်ကတည်းက ဖြစ်ခဲ့တာပါ။ 1947 ခုနှစ်မှာ Harvard တက္ကသိုလ်က Mark II ကွန်ပျူတာထဲက relay တစ်ခုထဲမှာ moth တစ်ကောင်တွေ့ရှိခဲ့သလို။ သူတို့က logbook မှာ “First actual bug found” လို့ရေးထားပြီး tape လိုက်သလို။ ဒါကြောင့် “bug” ဆိုတဲ့ စကားလုံးကို အကြောင်းအရာအဖြစ်သုံးသလို ဖြစ်သွားသလို။ မင်းက bug တစ်ခုတွေ့ရင် မေတ္တာရပ်ခံပါတယ်၊ အရင်က moth တစ်ကောင်ကစပြီးဖြစ်တဲ့အကြောင်းကို မေ့မထားပါနဲ့။  
 
 **CAPTION**  
-5G explained in 30 seconds! 🚀  
-Learn how your phone’s super‑fast internet is made possible.  
+From moth to code—why we call it a bug! 🐛💻  
 
 **HASHTAGS**  
-#Technology #5G #FutureTech #ScienceSimplified #TikTokScience #LearnOnTikTok #Short
+#TechFacts #ComputerHistory #BugStory #Moth #FunFacts #Education #TikTokScience
 
-Generated UTC: Thu Sep 10 02:16:40 UTC 2026
+Generated UTC: Sat Sep 12 02:16:20 UTC 2026
