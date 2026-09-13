@@ -1,19 +1,26 @@
 **TITLE**  
-The Real Reason Computers Get “Bugs”
+The Coldest Place on Earth (Not the North Pole!)
 
 **HOOK**  
-Think bugs are only in your code? The first one was a real moth!
+Ever wondered where the planet gets its chilliest chill? It’s not the North Pole – it’s a place called *Vostok Station* in Antarctica, and it’s so cold it’s like a freezer that never stops!  
 
 **SCRIPT_ENGLISH**  
-Hey TikTok! Ever wonder why we say “computer bug”? In 1947, engineers at Harvard found a moth trapped in a relay of the Mark II computer. They taped it into the logbook with the note “First actual bug found.” That’s how the term stuck! Next time you spot a bug, remember it might have started with a moth.  
+1️⃣ Vostok Station is a research camp in Antarctica, far from any cities.  
+2️⃣ In July 1983, scientists recorded a record‑low temperature of –89.2 °C (–128.6 °F).  
+3️⃣ That’s colder than any living thing can survive, so scientists use it to study extreme cold and its effects on the environment.  
+4️⃣ Imagine a place where even the air feels frozen – that’s Vostok!  
 
 **SCRIPT_BURMESE**  
-မင်္ဂလာပါ TikTok! မင်းကွန်ပျူတာထဲက “bug” ဆိုတဲ့ စကားလုံးအဓိပ္ပါယ်ကိုမေးထားတယ်ဆိုရင်၊ ပထမဆုံးက သဲသဲတစ်ကောင်တစ်ခုကတစ်ရက်ကတည်းက ဖြစ်ခဲ့တာပါ။ 1947 ခုနှစ်မှာ Harvard တက္ကသိုလ်က Mark II ကွန်ပျူတာထဲက relay တစ်ခုထဲမှာ moth တစ်ကောင်တွေ့ရှိခဲ့သလို။ သူတို့က logbook မှာ “First actual bug found” လို့ရေးထားပြီး tape လိုက်သလို။ ဒါကြောင့် “bug” ဆိုတဲ့ စကားလုံးကို အကြောင်းအရာအဖြစ်သုံးသလို ဖြစ်သွားသလို။ မင်းက bug တစ်ခုတွေ့ရင် မေတ္တာရပ်ခံပါတယ်၊ အရင်က moth တစ်ကောင်ကစပြီးဖြစ်တဲ့အကြောင်းကို မေ့မထားပါနဲ့။  
+1️⃣ Vostok Station သည် မြောက်အတိတ်တောင်တက်အရပ်က တစ်နေရာတည်းရှိသော သုတေသနဌာနတစ်ခုဖြစ်သည်။  
+2️⃣ 1983 ခုနှစ် ဇူလိုင်လတွင် သိပ္ပံပညာရှင်များက -89.2 °C (-128.6 °F) အထိအေးဆုံးအချိန်တစ်ခါတစ်ရံတင်သွားခဲ့သည်။  
+3️⃣ သဘာဝအတွင်း မည်သည့်သတ္တဝါတစ်ခုမဆို ဆဲလ်မတည်နိုင်သောအထိအေးသောအရာဖြစ်သည့်အတွက်၊ သုတေသနများသည် အလွန်အမင်းအေးသောအရာများကို လေ့လာရန် အသုံးပြုသည်။  
+4️⃣ မိုးလေဝသလေသည် အလွန်အမင်းအေးသလို ခံစားရသည့်နေရာတစ်ခု – ဒါက Vostok ဖြစ်ပါတယ်!  
 
 **CAPTION**  
-From moth to code—why we call it a bug! 🐛💻  
+The record‑breaking coldest place on Earth – a true freeze‑zone! ❄️🌍  
+(အမည်တစ်ခုက “Vostok Station” မဟုတ်ဘဲ “အတိတ်အတန်း” ဖြစ်သလို ခေတ်မီအေးမှုတစ်ခု!)
 
 **HASHTAGS**  
-#TechFacts #ComputerHistory #BugStory #Moth #FunFacts #Education #TikTokScience
+#AmazingFacts #ColdestPlace #VostokStation #Antarctica #ScienceTok #Space #Education #BurmeseScience #TikTokFacts #LearnOnTikTok
 
-Generated UTC: Sat Sep 12 02:16:20 UTC 2026
+Generated UTC: Sun Sep 13 02:16:10 UTC 2026
