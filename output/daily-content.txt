@@ -1,28 +1,36 @@
 **TITLE**  
-Amazing Facts: 5 Surprising Things About the Ocean  
+The Biggest Living Thing on Earth (It’s a Mushroom!)
 
 **HOOK**  
-Think you know the ocean? 5 facts that will blow your mind!  
+Think a single tree can be the biggest thing on Earth? Meet the *Honey Fungus*—the planet’s largest living organism!
 
 **SCRIPT_ENGLISH**  
-1. The ocean is 70% salt – that’s the same salt we use on our plates!  
-2. More than 80% of the ocean is still unexplored.  
-3. The deepest spot on Earth, the Mariana Trench, is deeper than Mount Everest is tall.  
-4. Some fish can glow in the dark – they’re natural night‑lights!  
-5. Every year, the ocean absorbs about 2% of the CO₂ we emit.  
+[Scene 1: Quick zoom on a forest map]  
+"Did you know the world’s biggest living thing is a mushroom? Not a tree, but a *honey fungus* in Oregon’s Blue Mountains. It covers about 2,385 acres—larger than many countries!"
+
+[Scene 2: Drone shot over the forest]  
+"This underground network of fungal threads spreads out for miles, feeding on decaying wood and living trees. Scientists say it’s over 2,000 years old!"
+
+[Scene 3: Close‑up of fungal mycelium]  
+"So next time you walk in a forest, remember—there’s a giant, invisible empire right under your feet."
+
+[End frame: Call to action]  
+"Like for more amazing facts! 🌍🍄"
 
 **SCRIPT_BURMESE**  
-1. ပင်လယ်ထဲက ဆားအရေအတွက် 70% – ကျွန်တော်တို့စားသောက်သုံးတဲ့ ဆားနဲ့တူတယ်!  
-2. ပင်လယ်ထဲက 80% ကျော်အတွင်း မသိရသေးတဲ့နေရာတွေရှိတယ်။  
-3. ကမ္ဘာ့အနက်ဆုံးနေရာ မာရီယာနာ တန့်က မြန်မာတောင်တက်ထက် ပိုအနက်ကွာပါသေးတယ်။  
-4. တစ်ချို့က মাছတွေ မီးမီးမထွက်တဲ့အခါ မီးခိုးအလိုင်း ပေါ်ထွက်တတ်တယ်။  
-5. တစ်နှစ်လျှင် ပင်လယ်က ကျွန်တော်တို့ထုတ်တဲ့ CO₂ 2% ကို စီးဆင်းတယ်။  
+[Scene 1: မြစ်တစ်ခွင့်အပေါ် မြင်ကွင်း]  
+"သင်သိသလား၊ ကမ္ဘာအကြီးဆုံးသက်ရှိတစ်ခုက သစ်ပင်မဟုတ်ဘဲ *ဟွန်ဖန်ဂျစ်* ဟုခေါ်သည့် မုန့်သစ်တစ်ခုဖြစ်သည်။ ၎င်းသည် Oregon မြို့နယ် Blue Mountains တွင် 2,385 တစ်ကီမီတာတစ်လက်ဝန်းရှိသည်။"
+
+[Scene 2: တောင်တက်ကင်မရာ]  
+"ထိုသက်ရှိသည် မြေထဲတွင်တစ်လျှောက်သွားသလို ဖက်တစ်လုံးတစ်လုံးဖြစ်ပြီး သစ်သားများနှင့် သစ်ပင်များကို စားသုံးသည်။ သိပ္ပံပညာရှင်များက 2,000 နှစ်အထိအိုအိုကြီးတစ်ခုဟုခန့်မှန်းသည်။"
+
+[Scene 3: မုန့်သစ်အုပ်စု close‑up]  
+"တစ်ခါတစ်ရံ သစ်တောတစ်ခုသွားသောအခါ၊ မိမိထောက်ထားသင့်သောအရာက မျှော်လင့်မထားသေးတဲ့ အံ့ဩဖွယ်တစ်ခုဖြစ်သည်။"
+
+[End frame: Call to action]  
+"အံ့ဩဖွယ်သတင်းများအတွက် လိုက်လံကြည့်ရှုပါ! 🌍🍄"
 
 **CAPTION**  
-Ready to dive into some amazing ocean facts? 🌊 #OceanFacts  
+🌍🍄 Did you know the largest
 
-**HASHTAGS**  
-#AmazingFacts #Ocean #DidYouKnow #Shorts #Science #Explore #Nature #BurmeseScience  
-
-
-Generated UTC: Mon Sep 14 02:16:48 UTC 2026
+Generated UTC: Tue Sep 15 02:18:36 UTC 2026
