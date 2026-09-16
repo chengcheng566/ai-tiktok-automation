@@ -1,36 +1,27 @@
 **TITLE**  
-The Biggest Living Thing on Earth (It’s a Mushroom!)
+Amazing Fact: The Giant Fungus That Covers 2,385 Acres!
 
 **HOOK**  
-Think a single tree can be the biggest thing on Earth? Meet the *Honey Fungus*—the planet’s largest living organism!
+Ever wondered what's the largest living thing on Earth? It's not a whale or a tree—it's a fungus!
 
 **SCRIPT_ENGLISH**  
-[Scene 1: Quick zoom on a forest map]  
-"Did you know the world’s biggest living thing is a mushroom? Not a tree, but a *honey fungus* in Oregon’s Blue Mountains. It covers about 2,385 acres—larger than many countries!"
-
-[Scene 2: Drone shot over the forest]  
-"This underground network of fungal threads spreads out for miles, feeding on decaying wood and living trees. Scientists say it’s over 2,000 years old!"
-
-[Scene 3: Close‑up of fungal mycelium]  
-"So next time you walk in a forest, remember—there’s a giant, invisible empire right under your feet."
-
-[End frame: Call to action]  
-"Like for more amazing facts! 🌍🍄"
+- This giant fungus lives in Oregon’s Blue Mountains.  
+- It covers 2,385 acres, bigger than 3,300 football fields.  
+- Scientists think it’s at least 2,400 years old.  
+- It spreads underground through a network of tiny threads called mycelium, feeding on decaying wood.  
+- So next time you think of the biggest thing, remember the hidden giant growing beneath your feet!
 
 **SCRIPT_BURMESE**  
-[Scene 1: မြစ်တစ်ခွင့်အပေါ် မြင်ကွင်း]  
-"သင်သိသလား၊ ကမ္ဘာအကြီးဆုံးသက်ရှိတစ်ခုက သစ်ပင်မဟုတ်ဘဲ *ဟွန်ဖန်ဂျစ်* ဟုခေါ်သည့် မုန့်သစ်တစ်ခုဖြစ်သည်။ ၎င်းသည် Oregon မြို့နယ် Blue Mountains တွင် 2,385 တစ်ကီမီတာတစ်လက်ဝန်းရှိသည်။"
-
-[Scene 2: တောင်တက်ကင်မရာ]  
-"ထိုသက်ရှိသည် မြေထဲတွင်တစ်လျှောက်သွားသလို ဖက်တစ်လုံးတစ်လုံးဖြစ်ပြီး သစ်သားများနှင့် သစ်ပင်များကို စားသုံးသည်။ သိပ္ပံပညာရှင်များက 2,000 နှစ်အထိအိုအိုကြီးတစ်ခုဟုခန့်မှန်းသည်။"
-
-[Scene 3: မုန့်သစ်အုပ်စု close‑up]  
-"တစ်ခါတစ်ရံ သစ်တောတစ်ခုသွားသောအခါ၊ မိမိထောက်ထားသင့်သောအရာက မျှော်လင့်မထားသေးတဲ့ အံ့ဩဖွယ်တစ်ခုဖြစ်သည်။"
-
-[End frame: Call to action]  
-"အံ့ဩဖွယ်သတင်းများအတွက် လိုက်လံကြည့်ရှုပါ! 🌍🍄"
+- ဤအကြီးဆုံးဖန်ဂစ်သည် ဥရောပ၏ မိုင်းတောင်တွင် တည်ရှိသည်။  
+- ၂,၃၈၅ အကွာအဝေးကွက်ပေါင်းသုံးသန်းကန့်ထိအကျယ်ရှိသည်။  
+- ပညာရှင်များအထောက်အထားအရ အနည်းဆုံး ၂,၄၀၀ နှစ်အထက်အရွယ်ရှိသည်။  
+- ၎င်းသည် အောက်သို့ရှိသေးသော သောကြားများဖြင့် မြေအောက်တွင် ကြားသံသံလမ်းကြောင်းများဖြင့် မီးသီးတိုးတက်သွားသည်။  
+- ထို့ကြောင့် များစွာသောအရာများကို အကြီးဆုံးအရာဟုထင်လျှင် သင့်အောက်တွင် လုံးဝတစ်ခုတည်းသောကြီးမားသော ဖန်ဂစ်ကို မှတ်မိပါစေ။
 
 **CAPTION**  
-🌍🍄 Did you know the largest
+The giant fungus is the biggest living thing on Earth. 🌱 #AmazingFacts
 
-Generated UTC: Tue Sep 15 02:18:36 UTC 2026
+**HASHTAGS**  
+#AmazingFact #LargestLivingThing #Fungus #Nature #Oregon #Biology #Science #DidYouKnow #NatureLovers #ScienceFacts
+
+Generated UTC: Wed Sep 16 02:16:44 UTC 2026
