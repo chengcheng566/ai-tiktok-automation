@@ -1,27 +1,33 @@
 **TITLE**  
-Amazing Fact: The Giant Fungus That Covers 2,385 Acres!
+The World’s Largest Living Thing – You Won’t Believe Its Size!  
 
 **HOOK**  
-Ever wondered what's the largest living thing on Earth? It's not a whale or a tree—it's a fungus!
+"Think the biggest thing on Earth is a mountain? Think again—this organism covers 2,385 acres and is over 2,400 years old!"  
 
 **SCRIPT_ENGLISH**  
-- This giant fungus lives in Oregon’s Blue Mountains.  
-- It covers 2,385 acres, bigger than 3,300 football fields.  
-- Scientists think it’s at least 2,400 years old.  
-- It spreads underground through a network of tiny threads called mycelium, feeding on decaying wood.  
-- So next time you think of the biggest thing, remember the hidden giant growing beneath your feet!
+[Scene 1 – Quick zoom on a forest floor]  
+**Narrator:** "Hidden under the Oregon rainforest, there's a living giant that covers 2,385 acres— that’s more than 3,700 football fields!"  
+
+[Scene 2 – Footage of the forest canopy]  
+**Narrator:** "It’s not a tree, but a fungus called *Armillaria ostoyae*, the honey fungus. This fungal network is a single organism, all connected by underground threads."  
+
+[Scene 3 – Time-lapse of forest growth]  
+**Narrator:** "Scientists estimate it’s over 2,400 years old— older than many ancient civilizations!"  
+
+[Scene 4 – Close‑up of spores]  
+**Narrator:** "Every few weeks, it sends out spores that can spread across miles, making new colonies that stay connected underground."  
+
+[Scene 5 – Ending shot of the forest]  
+**Narrator:** "So the next time you think about the biggest thing on Earth, remember this silent, slow‑moving giant that’s been around for centuries."  
 
 **SCRIPT_BURMESE**  
-- ဤအကြီးဆုံးဖန်ဂစ်သည် ဥရောပ၏ မိုင်းတောင်တွင် တည်ရှိသည်။  
-- ၂,၃၈၅ အကွာအဝေးကွက်ပေါင်းသုံးသန်းကန့်ထိအကျယ်ရှိသည်။  
-- ပညာရှင်များအထောက်အထားအရ အနည်းဆုံး ၂,၄၀၀ နှစ်အထက်အရွယ်ရှိသည်။  
-- ၎င်းသည် အောက်သို့ရှိသေးသော သောကြားများဖြင့် မြေအောက်တွင် ကြားသံသံလမ်းကြောင်းများဖြင့် မီးသီးတိုးတက်သွားသည်။  
-- ထို့ကြောင့် များစွာသောအရာများကို အကြီးဆုံးအရာဟုထင်လျှင် သင့်အောက်တွင် လုံးဝတစ်ခုတည်းသောကြီးမားသော ဖန်ဂစ်ကို မှတ်မိပါစေ။
+[အပိုင်း ၁ – မိုးတစ်ထပ်အောက်က မျက်နှာပြင်ထဲသို့ မီးဖိုတစ်ခုထုတ်]  
+**နောက်ခံမိတ်ဆက်:** "အိုရီဂန် မိုးတစ်ထပ်အောက်က ပန်းတိုင်တစ်ခုတည်းက ၂,၃၈၅ လက်ကဲကျယ်တဲ့ မျိုးစုံတစ်ခုရှိတယ်ဆိုတာသိသလား။ ဒါက ဘာလဲဆိုတာသိတဲ့အခါ များမကြာခင်ပြန်လည်ကြားမယ်!"  
 
-**CAPTION**  
-The giant fungus is the biggest living thing on Earth. 🌱 #AmazingFacts
+[အပိုင်း ၂ – မိုးတစ်ထပ်ထဲက တစ်ကွပ်အောက်က လှိုင်းထဲ]  
+**နောက်ခံမိတ်ဆက်:** "ဒီအရာက သစ်တစ်ခုမဟုတ်ပဲ *Armillaria ostoyae* လို့ခေါ်တဲ့ မုန့်အလယ်တစ်ခုပါ။ ဤကောက်သွပ်သံတော်များသည် မီးဖိုအောက်က သံတော်သံတော်များဖြင့် ချိတ်ဆက်ထားတဲ့ တစ်ခုတည်းသော အသိုင်းအဝိုင်းပါ။"  
 
-**HASHTAGS**  
-#AmazingFact #LargestLivingThing #Fungus #Nature #Oregon #Biology #Science #DidYouKnow #NatureLovers #ScienceFacts
+[အပိုင်း ၃ – တစ်ခါတစ်ရံသဘာဝကာလ]  
+**နောက်ခံမိတ်ဆက်:** "သုတေသနအရ ဒီကောက်သွပ်သည် ၂,၄၀၀ နှစ်အထက်အသက်ရှိပြီး၊ တချို့သော တိုင်းရင်းသားအထွေထွေထဲထက်လည်း ပိုမိုရှည်လ
 
-Generated UTC: Wed Sep 16 02:16:44 UTC 2026
+Generated UTC: Fri Sep 18 02:16:31 UTC 2026
