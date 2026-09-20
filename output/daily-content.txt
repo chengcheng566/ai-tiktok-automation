@@ -1,33 +1,25 @@
 **TITLE**  
-The World’s Largest Living Thing – You Won’t Believe Its Size!  
+The Whale’s Giant Heart  
 
 **HOOK**  
-"Think the biggest thing on Earth is a mountain? Think again—this organism covers 2,385 acres and is over 2,400 years old!"  
+"Did you know a blue whale’s heart can weigh as much as a car?"
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – Quick zoom on a forest floor]  
-**Narrator:** "Hidden under the Oregon rainforest, there's a living giant that covers 2,385 acres— that’s more than 3,700 football fields!"  
-
-[Scene 2 – Footage of the forest canopy]  
-**Narrator:** "It’s not a tree, but a fungus called *Armillaria ostoyae*, the honey fungus. This fungal network is a single organism, all connected by underground threads."  
-
-[Scene 3 – Time-lapse of forest growth]  
-**Narrator:** "Scientists estimate it’s over 2,400 years old— older than many ancient civilizations!"  
-
-[Scene 4 – Close‑up of spores]  
-**Narrator:** "Every few weeks, it sends out spores that can spread across miles, making new colonies that stay connected underground."  
-
-[Scene 5 – Ending shot of the forest]  
-**Narrator:** "So the next time you think about the biggest thing on Earth, remember this silent, slow‑moving giant that’s been around for centuries."  
+(0‑3s) “Ever seen a whale heart? Let’s see how big it is!”  
+(3‑8s) “A blue whale’s heart is about the size of a small car and weighs 1,300 pounds.”  
+(8‑12s) “That’s huge for an animal that’s only 80 feet long!”  
+(12‑15s) “Imagine pumping that through a 1,000‑mile bloodstream—nature’s engineering!”
 
 **SCRIPT_BURMESE**  
-[အပိုင်း ၁ – မိုးတစ်ထပ်အောက်က မျက်နှာပြင်ထဲသို့ မီးဖိုတစ်ခုထုတ်]  
-**နောက်ခံမိတ်ဆက်:** "အိုရီဂန် မိုးတစ်ထပ်အောက်က ပန်းတိုင်တစ်ခုတည်းက ၂,၃၈၅ လက်ကဲကျယ်တဲ့ မျိုးစုံတစ်ခုရှိတယ်ဆိုတာသိသလား။ ဒါက ဘာလဲဆိုတာသိတဲ့အခါ များမကြာခင်ပြန်လည်ကြားမယ်!"  
+(0‑3s) “သင်က ပင်လယ်ငါးရဲ့ နှလုံးအရွယ်အစားကိုကြည့်ထားသလား?”  
+(3‑8s) “ပင်လယ်ငါးတစ်ကောင်ရဲ့ နှလုံးက ဆယ့်သုံးမက်မအရွယ်၊ ၁,၃၀၀ ပေါင်ထိအလေးရှိတယ်။”  
+(8‑12s) “အဲ့ဒီအရွယ်အစားက ၈၀ ပေတစ်ကောင်ထဲကတစ်ကောင်အတွက်အလွန်ကြီးတယ်!”  
+(12‑15s) “သုံးတစ်ထောင်မိုင်လောက်တဲ့ သွေးလမ်းကြောင်းတစ်ခုတည်းကဲ့သို့ ထိန်းသိမ်းသွားတဲ့ အထူးကောင်းမွန်တဲ့ မင်းသားတစ်ယောက်ကပါ။”
 
-[အပိုင်း ၂ – မိုးတစ်ထပ်ထဲက တစ်ကွပ်အောက်က လှိုင်းထဲ]  
-**နောက်ခံမိတ်ဆက်:** "ဒီအရာက သစ်တစ်ခုမဟုတ်ပဲ *Armillaria ostoyae* လို့ခေါ်တဲ့ မုန့်အလယ်တစ်ခုပါ။ ဤကောက်သွပ်သံတော်များသည် မီးဖိုအောက်က သံတော်သံတော်များဖြင့် ချိတ်ဆက်ထားတဲ့ တစ်ခုတည်းသော အသိုင်းအဝိုင်းပါ။"  
+**CAPTION**  
+🐋💓 “Nature’s biggest heart—bigger than a car! #AmazingFact”
 
-[အပိုင်း ၃ – တစ်ခါတစ်ရံသဘာဝကာလ]  
-**နောက်ခံမိတ်ဆက်:** "သုတေသနအရ ဒီကောက်သွပ်သည် ၂,၄၀၀ နှစ်အထက်အသက်ရှိပြီး၊ တချို့သော တိုင်းရင်းသားအထွေထွေထဲထက်လည်း ပိုမိုရှည်လ
+**HASHTAGS**  
+#AmazingFacts #BlueWhale #MarineLife #ScienceFacts #NatureWow #TikTokFacts #Burmese #English #Shorts #Education #FunScience #WhaleHeart #WowFactor #LearnOnTikTok
 
-Generated UTC: Fri Sep 18 02:16:31 UTC 2026
+Generated UTC: Sun Sep 20 02:15:58 UTC 2026
