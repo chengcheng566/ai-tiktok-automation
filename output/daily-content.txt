@@ -1,25 +1,40 @@
 **TITLE**  
-The Whale’s Giant Heart  
+The Tree That Outlived Civilization
 
 **HOOK**  
-"Did you know a blue whale’s heart can weigh as much as a car?"
+Ever wondered which living thing is older than any city? Meet the Methuselah tree!
 
 **SCRIPT_ENGLISH**  
-(0‑3s) “Ever seen a whale heart? Let’s see how big it is!”  
-(3‑8s) “A blue whale’s heart is about the size of a small car and weighs 1,300 pounds.”  
-(8‑12s) “That’s huge for an animal that’s only 80 feet long!”  
-(12‑15s) “Imagine pumping that through a 1,000‑mile bloodstream—nature’s engineering!”
+[0‑3 s] Close‑up of a giant sequoia.  
+**Narrator:** “This tree is not just big, it’s ancient—over 4,800 years old.”  
+
+[4‑10 s] Show map of California’s Sierra Nevada.  
+**Narrator:** “It grew in the White Mountains, far from the hustle of any town.”  
+
+[11‑18 s] Cut to a photo of the tree’s bark.  
+**Narrator:** “Its rings show it survived wildfires, droughts, and even human history.”  
+
+[19‑25 s] Quick montage of people walking in a park.  
+**Narrator:** “While cities rise and fall, this tree kept standing. It’s the oldest known living organism on Earth.”  
+
+[26‑30 s] End with a sunrise over the tree.  
+**Narrator:** “So next time you visit a park, remember: you might be standing beside a living legend.”  
+**On‑screen text:** “Like & share for more amazing facts!”
 
 **SCRIPT_BURMESE**  
-(0‑3s) “သင်က ပင်လယ်ငါးရဲ့ နှလုံးအရွယ်အစားကိုကြည့်ထားသလား?”  
-(3‑8s) “ပင်လယ်ငါးတစ်ကောင်ရဲ့ နှလုံးက ဆယ့်သုံးမက်မအရွယ်၊ ၁,၃၀၀ ပေါင်ထိအလေးရှိတယ်။”  
-(8‑12s) “အဲ့ဒီအရွယ်အစားက ၈၀ ပေတစ်ကောင်ထဲကတစ်ကောင်အတွက်အလွန်ကြီးတယ်!”  
-(12‑15s) “သုံးတစ်ထောင်မိုင်လောက်တဲ့ သွေးလမ်းကြောင်းတစ်ခုတည်းကဲ့သို့ ထိန်းသိမ်းသွားတဲ့ အထူးကောင်းမွန်တဲ့ မင်းသားတစ်ယောက်ကပါ။”
+[0‑3 s] ကြီးမားသော sequoia သီးအနီးက close‑up.  
+**Narrator:** “ဤသီးသည် ကြီးမားတယ်ဆိုတာမက၊ ၄,၈၀၀ နှစ်ကျော်အရွယ်ပါ။”  
 
-**CAPTION**  
-🐋💓 “Nature’s biggest heart—bigger than a car! #AmazingFact”
+[4‑10 s] California’s Sierra Nevada မြေပုံကို ပြသ။  
+**Narrator:** “အမေရိကန်နိုင်ငံ၏ White Mountains တွင် တည်ရှိသေးသည်။ တစ်နိုင်ငံမရှိသေးသောနေရာ။”  
 
-**HASHTAGS**  
-#AmazingFacts #BlueWhale #MarineLife #ScienceFacts #NatureWow #TikTokFacts #Burmese #English #Shorts #Education #FunScience #WhaleHeart #WowFactor #LearnOnTikTok
+[11‑18 s] သီး၏ bark ရုပ်ပုံကို ပြသ။  
+**Narrator:** “အလင်းကာလများ၊ မုန်တိုင်း၊ မိုးသုန်အလားအလာများအတွက် တည်ဆဲသီးတစ်ခု။”  
 
-Generated UTC: Sun Sep 20 02:15:58 UTC 2026
+[19‑25 s] ပန်းကန်တွင်လမ်းလျှောက်နေသောလူများကို မြင်။  
+**Narrator:** “မြို့များက တည်ဆောက်သွားလျှင်၊ ဤသီးသည် တည်ရှိနေပါသည်။ ကမ္ဘာ့အကြီးဆုံး တစ်ခုဖြစ်သည်။”  
+
+[26‑30 s] သီးအပေါ် sunrise.  
+**Narrator:** “အတည်ပြ
+
+Generated UTC: Mon Sep 21 02:16:09 UTC 2026
