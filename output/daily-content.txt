@@ -1,40 +1,23 @@
 **TITLE**  
-The Tree That Outlived Civilization
+Moon’s Hidden Wonders: 3 Amazing Facts  
 
 **HOOK**  
-Ever wondered which living thing is older than any city? Meet the Methuselah tree!
+Think you know everything about the Moon? Think again!  
 
 **SCRIPT_ENGLISH**  
-[0‑3 s] Close‑up of a giant sequoia.  
-**Narrator:** “This tree is not just big, it’s ancient—over 4,800 years old.”  
-
-[4‑10 s] Show map of California’s Sierra Nevada.  
-**Narrator:** “It grew in the White Mountains, far from the hustle of any town.”  
-
-[11‑18 s] Cut to a photo of the tree’s bark.  
-**Narrator:** “Its rings show it survived wildfires, droughts, and even human history.”  
-
-[19‑25 s] Quick montage of people walking in a park.  
-**Narrator:** “While cities rise and fall, this tree kept standing. It’s the oldest known living organism on Earth.”  
-
-[26‑30 s] End with a sunrise over the tree.  
-**Narrator:** “So next time you visit a park, remember: you might be standing beside a living legend.”  
-**On‑screen text:** “Like & share for more amazing facts!”
+1️⃣ The biggest crater in the solar system is on the Moon – the South Pole‑Aitken Basin, 2,500 km wide!  
+2️⃣ Meteorites hit the Moon all the time. Scientists listen to the tiny “seismic waves” they create – like a giant space ultrasound – to learn what’s inside.  
+3️⃣ The Moon still has a faint magnetic field, a leftover from when it was molten and had a core.  
 
 **SCRIPT_BURMESE**  
-[0‑3 s] ကြီးမားသော sequoia သီးအနီးက close‑up.  
-**Narrator:** “ဤသီးသည် ကြီးမားတယ်ဆိုတာမက၊ ၄,၈၀၀ နှစ်ကျော်အရွယ်ပါ။”  
+1️⃣ လမမှာ အကွာအဝေးအလားအလာအများဆုံး ဓာတ်ဗေဒဗဟိုအဝယ်ပင်သစ်တစ်ခုရှိတယ် – ဆောက်လုပ်ရေးသံတား‑အိုက်ကင်ဘက်စံ, 2,500 ကီလိုမီတာကျယ်!  
+2️⃣ မီးသီးတွေ လမထဲကို တိုက်သွားတဲ့အခါ, သိပ္ပံပညာရှင်တွေ “အံ့သြဖွယ်တိတ်တိတ်လှိုင်း” တွေကို နားထောင်တယ် – ကြယ်တစ်လွှာအတွင်း “အလွှာအူဆစ်” လိုသလို, မီးသီးထဲကအတွင်းအကြောင်းသိနိုင်ပါတယ်။  
+3️⃣ လမမှာ လုံးဝမရှိသလို လုံးဝသက်သေမရှိတဲ့ မိုဃ်းနည်းကြီးတစ်ခုရှိတယ်၊ မီးသီးအပေါ်တွင် လုံးဝအောက်ခံထားတဲ့ မိုဃ်းနည်းကြီးတစ်ခုက အတွင်းကနေထွက်သွားတဲ့ အမှတ်တရတစ်ခုပါ။  
 
-[4‑10 s] California’s Sierra Nevada မြေပုံကို ပြသ။  
-**Narrator:** “အမေရိကန်နိုင်ငံ၏ White Mountains တွင် တည်ရှိသေးသည်။ တစ်နိုင်ငံမရှိသေးသောနေရာ။”  
+**CAPTION**  
+Explore the Moon’s mysteries! 🌕✨ #MoonFacts #Space  
 
-[11‑18 s] သီး၏ bark ရုပ်ပုံကို ပြသ။  
-**Narrator:** “အလင်းကာလများ၊ မုန်တိုင်း၊ မိုးသုန်အလားအလာများအတွက် တည်ဆဲသီးတစ်ခု။”  
+**HASHTAGS**  
+#AmazingFacts #Moon #Space #Science #FunFacts #TikTokScience
 
-[19‑25 s] ပန်းကန်တွင်လမ်းလျှောက်နေသောလူများကို မြင်။  
-**Narrator:** “မြို့များက တည်ဆောက်သွားလျှင်၊ ဤသီးသည် တည်ရှိနေပါသည်။ ကမ္ဘာ့အကြီးဆုံး တစ်ခုဖြစ်သည်။”  
-
-[26‑30 s] သီးအပေါ် sunrise.  
-**Narrator:** “အတည်ပြ
-
-Generated UTC: Mon Sep 21 02:16:09 UTC 2026
+Generated UTC: Tue Sep 22 02:16:44 UTC 2026
