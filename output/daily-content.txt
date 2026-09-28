@@ -1,20 +1,33 @@
 **TITLE**  
-The Hidden Forest Underfoot  
+Lightning’s Power: 100,000 Slices of Bread!  
 
 **HOOK**  
-Ever wonder what’s beneath your feet? Meet the world’s biggest living thing!  
+Ever wonder how powerful a lightning bolt really is?  
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – aerial view of a forest, zooming down to the forest floor]  
-Voice‑over: “Most of Earth’s life lives underground. In Oregon, a single organism covers 2,200 acres – that’s bigger than a small city!”  
+[Scene 1 – Quick lightning flash]  
+Narrator: “A single lightning strike packs a huge punch!”  
 
-[Cut to images of the fungal network, mycelium threads spreading]  
-Voice‑over: “It’s a giant fungus called *Armillaria ostoyae*, the ‘Humongous Fungus.’ It began about 2,400 years ago and keeps growing. Scientists say it weighs over 10,000 tons – the largest living thing on Earth.”  
+[Scene 2 – Visual of a lightbulb and bread]  
+Narrator: “It’s enough to light a 100‑watt bulb for about 3 hours, or to toast 100,000 slices of bread.”  
 
-[Show a quick animation of the fungus feeding on trees]  
-Voice‑over: “It spreads through tiny threads called mycelium, breaking down dead wood and helping the forest stay healthy.”  
+[Scene 3 – Call‑to‑action]  
+Narrator: “Mind‑blown? Hit like, share, and follow for more amazing facts!”  
 
-[Close with a call‑to‑action]  
-Voice‑over: “So next time you walk in the woods, remember a giant
+**SCRIPT_BURMESE**  
+[Scene 1 – တစ်လှေ့လှုပ်သံထွက်သည့် မီးသီး]  
+Narrator: “တစ်လှေ့လှုပ်သံတစ်ခုကအံ့မခဲတဲ့အင်အားရှိတယ်!”  
 
-Generated UTC: Sun Sep 27 02:16:26 UTC 2026
+[Scene 2 – မီးခိုင်းနှင့် မုန်လာခါးကို ပြသ]  
+Narrator: “ဒီအင်အားက 100‑ဝပ်မီးခိုင်းကို 3 နာရီလှည့်နိုင်သလို၊ မုန်လာခါး 100,000 ခွဲကို သမိုင်းထုတ်နိုင်တယ်!”  
+
+[Scene 3 – လုပ်ဆောင်ချက်]  
+Narrator: “အံ့သြတယ်လား? လိုက်ကလစ်၊ မျှဝေ၊ နှင့် လိုက်နာဖို့ မမေ့ပါနဲ့!”  
+
+**CAPTION**  
+Lightning is more powerful than you think! ⚡️ #AmazingFact  
+
+**HASHTAGS**  
+#AmazingFacts #Lightning #Science #FunFact #Shorts #TikTokFacts
+
+Generated UTC: Mon Sep 28 02:16:34 UTC 2026
