@@ -1,19 +1,13 @@
 **TITLE**  
-Mars’s Giant Volcano: 3 Times Taller Than Everest!  
+Phone's Hidden Sleep Mode  
 
 **HOOK**  
-Did you know Mars has a volcano taller than any mountain on Earth? Stick around to see how big it really is!  
+Ever wondered how to make your phone last longer? There's a secret trick you might miss!  
 
 **SCRIPT_ENGLISH**  
-Meet Olympus Mons, the biggest volcano in the whole solar system. It’s about 22 km (14 miles) high – three times taller than Mount Everest. The crater is 600 km wide, almost the size of a small continent! It’s been silent for about 6 million years, so it’s a massive, quiet giant.  
+1. Did you know your smartphone has a secret sleep mode?  
+2. When you swipe up to lock the screen, it actually puts your phone into a power‑saving state.  
+3. This mode turns off the screen, GPS, Wi‑Fi and background apps.  
+4. Your battery can last up to 30% longer
 
-**SCRIPT_BURMESE**  
-Olympus Mons ကို မိတ်ဆက်ပါမယ် – သမားကမ္ဘာလှိုင်အကြီးဆုံး မီးသွားတောင်။ 22 ကီလိုမီတာ (14 မိုင်) မြင့်တင်ပြီး မိုင်းတင်တောင်ထက် 3 ထပ်မြင့်တယ်။ လုံးဝ 600 ကီလိုမီတာအကျယ်ရှိပြီး တစ်နိုင်ငံအရွယ်သလို။ 6 သန်းနှစ်ကြာ မီးထွားတာမရှိတဲ့ အေးအေးဆေးဆေးထဲက ကြီးမားတဲ့ တောင်တစ်ခုပါ။  
-
-**CAPTION**  
-Ever wondered what the biggest mountain in the solar system looks like? 🌌🚀  
-
-**HASHTAGS**  
-#AmazingFacts #Space #Mars #OlympusMons #Science #
-
-Generated UTC: Fri Oct  2 02:16:53 UTC 2026
+Generated UTC: Sat Oct  3 02:18:12 UTC 2026
