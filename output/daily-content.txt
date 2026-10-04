@@ -1,13 +1,21 @@
 **TITLE**  
-Phone's Hidden Sleep Mode  
+Venus: A Day Longer Than a Year!  
 
 **HOOK**  
-Ever wondered how to make your phone last longer? There's a secret trick you might miss!  
+Think a year on Venus is long? Wait till you hear this!  
 
 **SCRIPT_ENGLISH**  
-1. Did you know your smartphone has a secret sleep mode?  
-2. When you swipe up to lock the screen, it actually puts your phone into a power‑saving state.  
-3. This mode turns off the screen, GPS, Wi‑Fi and background apps.  
-4. Your battery can last up to 30% longer
+Venus is the brightest planet you can see at night.  
+Did you know its day is actually longer than its year?  
+Venus spins very slowly – it takes 243 Earth days to complete one spin.  
+But it only takes 225 Earth days for Venus to travel once around the Sun.  
+So if you lived on Venus, you’d see the Sun rise, set, and rise again before your planet finishes one orbit.  
+That’s a really, really long day!  
 
-Generated UTC: Sat Oct  3 02:18:12 UTC 2026
+**SCRIPT_BURMESE**  
+Venus သည် ညနေတစ်ခါ မိုးသုံးသွားရောက်နိုင်သည့်အလင်းထုတ်ပစ္စည်းတစ်ခုပါ။  
+သင်သိပါသလား။ Venus ၏နေ့က Venus ၏နှစ်ထက်ပိုကြာပါသည်။  
+Venus သည်အလွန်တစ်ဆင့်တစ်လှမ်းလျှော့သည် – တစ်ကြိမ်လှိုင်းတစ်ကြိမ်ဖလှယ်ရန် ၂၄၃ ဗာသန့်နေ့လိုက်သည်။  
+သို့သော် Venus သည် နေရာတစ်လှည့်ပြန်သွားရန် ၂၂၅ ဗာသန့်နေ့
+
+Generated UTC: Sun Oct  4 04:08:04 UTC 2026
