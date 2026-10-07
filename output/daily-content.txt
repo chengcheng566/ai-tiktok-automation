@@ -1,21 +1,9 @@
 **TITLE**  
-Venus: A Day Longer Than a Year!  
+Venus: The Longest Day in the Solar System  
 
 **HOOK**  
-Think a year on Venus is long? Wait till you hear this!  
+Think a year is long? On Venus, it’s actually longer than a single day!  
 
-**SCRIPT_ENGLISH**  
-Venus is the brightest planet you can see at night.  
-Did you know its day is actually longer than its year?  
-Venus spins very slowly – it takes 243 Earth days to complete one spin.  
-But it only takes 225 Earth days for Venus to travel once around the Sun.  
-So if you lived on Venus, you’d see the Sun rise, set, and rise again before your planet finishes one orbit.  
-That’s a really, really long day!  
+**
 
-**SCRIPT_BURMESE**  
-Venus သည် ညနေတစ်ခါ မိုးသုံးသွားရောက်နိုင်သည့်အလင်းထုတ်ပစ္စည်းတစ်ခုပါ။  
-သင်သိပါသလား။ Venus ၏နေ့က Venus ၏နှစ်ထက်ပိုကြာပါသည်။  
-Venus သည်အလွန်တစ်ဆင့်တစ်လှမ်းလျှော့သည် – တစ်ကြိမ်လှိုင်းတစ်ကြိမ်ဖလှယ်ရန် ၂၄၃ ဗာသန့်နေ့လိုက်သည်။  
-သို့သော် Venus သည် နေရာတစ်လှည့်ပြန်သွားရန် ၂၂၅ ဗာသန့်နေ့
-
-Generated UTC: Sun Oct  4 04:08:04 UTC 2026
+Generated UTC: Wed Oct  7 08:28:30 UTC 2026
