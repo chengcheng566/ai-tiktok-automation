@@ -1,9 +1,25 @@
 **TITLE**  
-Venus: The Longest Day in the Solar System  
+The Great Barrier Reef: Earth's Biggest Living Structure  
 
 **HOOK**  
-Think a year is long? On Venus, it’s actually longer than a single day!  
+Did you know the Great Barrier Reef is so huge you can spot it from space?  
 
-**
+**SCRIPT_ENGLISH**  
+(0‑3 sec) – Show a quick satellite view of the reef.  
+(3‑7 sec) – “It stretches over 2,300 km along Australia’s coast.”  
+(7‑12 sec) – “That’s longer than the distance from London to New York!”  
+(12‑18 sec) – “It’s home to 30,000 species of marine life – a whole underwater city.”  
+(18‑22 sec) – “And it’s the only living structure you can see with the naked eye from orbit.”  
+(22‑25 sec) – End with a call‑to‑action: “Like & follow for more amazing facts!”  
 
-Generated UTC: Wed Oct  7 08:28:30 UTC 2026
+**SCRIPT_BURMESE**  
+(0‑3 စက္ကန့်) – အကာသထဲက ရှာဖွေသုံးသပ်ထားသော Reef များကို ပြသ။  
+(3‑7 စက္ကန့်) – “ဤ Reef သည် တစ်သန်းမိုက် ၂,၃၀၀ ကျော်အတိုင်း ကျယ်ဝန်းသည်။”  
+(7‑12 စက္ကန့်) – “ဒါဟာ ဥက္ကသိုလ်မှ New York သို့တစ်ခုတည်းသောအကာသအဝင်လမ်းကြောင်းထက် ပိုရှည်ပါ။”  
+(12‑18 စက္ကန့်) – “အောက်ကလမ်းအောက်တွင် ၃၀,၀၀၀ မျိုးစုံသော ပင်လယ်သတ္တဝါများ တည်နေထိုင်ပြီး၊ မီးခိုးတစ်ခုကဲ့သို့သော မြစ်တစ်ခုပဲ။”  
+(18‑22 စက္ကန့်) – “သင့်ကမ္ဘာအတွင်း အရိုးသစ်တစ်ခုအဖြစ် မီးခိုးတစ်ခုထဲမှ မြင်နိုင်ပါသည်။”  
+(22‑25 စက္ကန့်) – “Like & follow လုပ်ပြီး မိတ်ဆက်ဖို့ လိုအပ်သော အံ့သြဖွယ် အချက်များကို ရယူပါ။”  
+
+**CAPTION
+
+Generated UTC: Thu Oct  8 08:44:11 UTC 2026
