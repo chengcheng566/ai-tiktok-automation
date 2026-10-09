@@ -1,25 +1,15 @@
 **TITLE**  
-The Great Barrier Reef: Earth's Biggest Living Structure  
+Venus: Where a Day is Longer Than a Year!
 
 **HOOK**  
-Did you know the Great Barrier Reef is so huge you can spot it from space?  
+Ever heard of a planet where it takes longer to spin once than to orbit the Sun? Let’s explore Venus!
 
 **SCRIPT_ENGLISH**  
-(0‑3 sec) – Show a quick satellite view of the reef.  
-(3‑7 sec) – “It stretches over 2,300 km along Australia’s coast.”  
-(7‑12 sec) – “That’s longer than the distance from London to New York!”  
-(12‑18 sec) – “It’s home to 30,000 species of marine life – a whole underwater city.”  
-(18‑22 sec) – “And it’s the only living structure you can see with the naked eye from orbit.”  
-(22‑25 sec) – End with a call‑to‑action: “Like & follow for more amazing facts!”  
+Did you know that a single day on Venus—meaning the time it takes Venus to complete one spin on its axis—lasts about 243 Earth days? That’s longer than its year, which is just 225 Earth days. So if you were standing on Venus, you’d have to wait longer for a sunrise than for the planet to complete a full orbit around the Sun! And that’s not even counting its slow, retrograde rotation—Venus spins backward, so the Sun rises in the west. Pretty mind‑blowing, right?
 
 **SCRIPT_BURMESE**  
-(0‑3 စက္ကန့်) – အကာသထဲက ရှာဖွေသုံးသပ်ထားသော Reef များကို ပြသ။  
-(3‑7 စက္ကန့်) – “ဤ Reef သည် တစ်သန်းမိုက် ၂,၃၀၀ ကျော်အတိုင်း ကျယ်ဝန်းသည်။”  
-(7‑12 စက္ကန့်) – “ဒါဟာ ဥက္ကသိုလ်မှ New York သို့တစ်ခုတည်းသောအကာသအဝင်လမ်းကြောင်းထက် ပိုရှည်ပါ။”  
-(12‑18 စက္ကန့်) – “အောက်ကလမ်းအောက်တွင် ၃၀,၀၀၀ မျိုးစုံသော ပင်လယ်သတ္တဝါများ တည်နေထိုင်ပြီး၊ မီးခိုးတစ်ခုကဲ့သို့သော မြစ်တစ်ခုပဲ။”  
-(18‑22 စက္ကန့်) – “သင့်ကမ္ဘာအတွင်း အရိုးသစ်တစ်ခုအဖြစ် မီးခိုးတစ်ခုထဲမှ မြင်နိုင်ပါသည်။”  
-(22‑25 စက္ကန့်) – “Like & follow လုပ်ပြီး မိတ်ဆက်ဖို့ လိုအပ်သော အံ့သြဖွယ် အချက်များကို ရယူပါ။”  
+ဗန်နားတစ်ခုက တစ်ရက်တစ်ခုတိုင်လျှင်လှည့်တစ်ခါထက် ပိုကြာသလို၊ သစ်လွှားတစ်ခါထက်လည်း ပိုကြာသလိုသလား? စမ်းသပ်ကြည့်လိုက်ပါ!  
+ဗန်နားတစ်ရက် (အကွာအဝေးတစ်ခုတစ်ခါအတွင်း လှည့်သွားသောအချိန်) သည် ၂၄၃ ဗုံးအချိန်ရှိပြီး၊ ၎င်း၏နှစ် (သစ်လွှားတစ်ခါတစ်ခါ) သည် ၂၂၅ ဗုံးသာပါ။  
+ဒါဆို တစ်ယောက်က ဗန်နားတစ်ကွက်ထဲကနေထိုင်ရင်၊ နံနက်အထွက်အချိ
 
-**CAPTION
-
-Generated UTC: Thu Oct  8 08:44:11 UTC 2026
+Generated UTC: Fri Oct  9 08:48:36 UTC 2026
