@@ -1,15 +1,10 @@
 **TITLE**  
-Venus: Where a Day is Longer Than a Year!
+The Earth’s Biggest Super‑Organism 🌱🦠  
 
 **HOOK**  
-Ever heard of a planet where it takes longer to spin once than to orbit the Sun? Let’s explore Venus!
+Think the tallest tree is the biggest thing on Earth? Think again!  
 
 **SCRIPT_ENGLISH**  
-Did you know that a single day on Venus—meaning the time it takes Venus to complete one spin on its axis—lasts about 243 Earth days? That’s longer than its year, which is just 225 Earth days. So if you were standing on Venus, you’d have to wait longer for a sunrise than for the planet to complete a full orbit around the Sun! And that’s not even counting its slow, retrograde rotation—Venus spins backward, so the Sun rises in the west. Pretty mind‑blowing, right?
+Hey everyone! Quick fact: the largest living thing on our planet isn’t a tree or a whale—it’s a fungus! In Oregon’s Blue Mountains lives a honey‑fungus that’s spread over 2,200 acres (about 8.8 km²). That’s larger than many cities! It’s an underground network of threads called mycelium, and it’s estimated to
 
-**SCRIPT_BURMESE**  
-ဗန်နားတစ်ခုက တစ်ရက်တစ်ခုတိုင်လျှင်လှည့်တစ်ခါထက် ပိုကြာသလို၊ သစ်လွှားတစ်ခါထက်လည်း ပိုကြာသလိုသလား? စမ်းသပ်ကြည့်လိုက်ပါ!  
-ဗန်နားတစ်ရက် (အကွာအဝေးတစ်ခုတစ်ခါအတွင်း လှည့်သွားသောအချိန်) သည် ၂၄၃ ဗုံးအချိန်ရှိပြီး၊ ၎င်း၏နှစ် (သစ်လွှားတစ်ခါတစ်ခါ) သည် ၂၂၅ ဗုံးသာပါ။  
-ဒါဆို တစ်ယောက်က ဗန်နားတစ်ကွက်ထဲကနေထိုင်ရင်၊ နံနက်အထွက်အချိ
-
-Generated UTC: Fri Oct  9 08:48:36 UTC 2026
+Generated UTC: Sun Oct 11 08:36:58 UTC 2026
