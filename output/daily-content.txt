@@ -1,33 +1,16 @@
 **TITLE**  
-Amazing Fact: The Oldest Living Thing on Earth  
+Amazing Facts: The Deepest Cave in the World  
 
 **HOOK**  
-Did you know the oldest living thing on Earth isn’t a person, it’s a tree?  
+Did you know there's a cave deeper than any mountain?  
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – Quick zoom on a forest]  
-“Hey TikTok! Let’s travel back in time. Meet the Oldest Living Thing on Earth – a spruce tree named *Old Tjikko*.”  
-
-[Scene 2 – Show a photo of the tree]  
-“It’s in Sweden and it’s about 9,550 years old! That means it started growing when the first humans were just learning to make fire.”  
-
-[Scene 3 – Clip of roots and a time‑lapse of a sapling]  
-“Why is it so old? The tree keeps cloning itself. Its roots send out new shoots that look like fresh seedlings, but genetically they’re the same tree.”  
-
-[Scene 4 – Fun fact]  
-“So, if you think you’re ancient, just remember – you’re still younger than this tree!”  
-
-[Scene 5 – Call to action]  
-“Like, share, and follow for more amazing facts!”  
+The deepest cave in the world is called Krubera Cave, located in the Caucasus Mountains. It reaches more than 2,200 meters underground – deeper than the Eiffel Tower. Scientists explore it to learn about underground life and how caves form. It reminds us that there’s still a lot of mystery right below our feet.  
 
 **SCRIPT_BURMESE**  
-[Scene 1 – တစ်ထိုက်တစ်သက်ကွင်း]  
-“မင်္ဂလာပါ TikTok! မိမိကိုယ်တိုင်အချိန်သွားပါ။ ကမ္ဘာအနက်အရှေ့ဆုံး ပင်လယ်သစ်တစ်ခု *Old Tjikko* ကိုတွေ့ပါ။”  
+ကမ္ဘာ့အနက်ဆုံးကျောက်မီးက Krubera Cave (ခရူဘား ကျောက်မီး) ဖြစ်ပြီး ကော်ကေးသိုင်းတောင်တန်းတွင် တည်ရှိသည်။ ၎င်းသည် ၂,၂၀၀ မီတာထက်အောက်သို့ တက်သွားပြီး Eiffel Tower ထက်လည်း ပိုအနက်ဆုံးဖြစ်သည်။ သိပ္ပံပညာရှင်များသည် ဒါကို လေ့လာကာ မြေအောက်သို့ တည်ရှိသော အသက်ရှင်မှုနှင့် ကျောက်မီးဖွဲ့စည်းမှုအကြောင်းကို လေ့လာကြသည်။ ကျွန်တော်တို့၏ ခြေထောက်အောက်တွင် လည်း မည်သို့သော မေးခွန်းများ များမနည်းကြောင်း သတိပေးပါသည်။  
 
-[Scene 2 – ပင်လယ်သစ်ဓာတ်ပုံပြသ]  
-“ဒါက သစ်တစ်ကယ် 9,550 နှစ်အရွယ်ပါ။ လူသားတွေ ပထမတစ်ခါ မီးထုတ်ခန်းတစ်ခုဖန်တီးသေးတဲ့အခါကစတင်တက်တယ်။”  
+**CAPTION**  
+Explore the
 
-[Scene 3 – အားလုံးသစ်ကပ်တစ်ခါအောက်မူတက်သွားသည့် အချိန်ကြီးသည့် ဗီဒီယို]  
-“ဘာကြောင့်ထိုကဲ့သို့ရှည်လျားသနည်း? သစ်က ကိုယ့်သံတစ်လုံးတစ်ခုထဲကနေ မျိုးစပ်သစ်တွေထွက်သွားတာဖြစ်သလို။ အရင်ကတစ်ခုတည်းတဲ့ သစ်တစ်ခုဟာ
-
-Generated UTC: Mon Oct 12 08:58:38 UTC 2026
+Generated UTC: Tue Oct 13 09:13:35 UTC 2026
