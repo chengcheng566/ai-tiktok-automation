@@ -1,10 +1,15 @@
 **TITLE**  
-The Snowflake That Was 15 Inches Wide  
+The First Computer Mouse Was Made of Wood!
 
 **HOOK**  
-Think a snowflake is tiny? This one was bigger than your hand!  
+Ever wondered what the first computer mouse looked like? It wasn't a mouse at all!
 
 **SCRIPT_ENGLISH**  
-In 1887, a snowflake fell in Montana and measured 15 inches wide—almost the size of a dinner
+- (Show a wooden mouse model)  
+"Back in 1964, a genius named Douglas Engelbart invented the very first computer mouse. Guess what it was made of? Wood! It had a simple wooden shell and a small ball that rolled on the desk. Engineers later added metal and rubber, but that first wooden mouse sparked the way we interact with computers today. Imagine starting with a piece of wood and ending up with sleek, wireless devices we use every day!"
 
-Generated UTC: Fri Oct 16 06:57:59 UTC 2026
+**SCRIPT_BURMESE**  
+- (တစ်ပုံပြင် ပုံသွားသော wooden mouse ကို ပြသပါ)  
+"1964 ခုနှစ်တွင် Douglas Engelbart ဆိုတဲ့ ပညာရှင်တစ်ဦးက ပထမဆုံးကွန်ပျူတာမောက်စ်တစ်လုံး ဖန်တီးခဲ့တယ်။ များမကြာခင်တွင် အဲဒီမောက်စ်က သစ်သားဖြင့် ပြုလုပ်ထားတယ်။ ဒါဟာ တစ်ကွက် သစ်သားအခန်းတစ်ချပ်ဖြစ်ပြီး မောက်စ်၏ တစ်ခုတည်းသော ခလုတ်နှင့် ကားလုံးတစ်ခုပါဝင်သလို တစ်ခုတည်းသော ရွှေတစ်ခုပါဝင်သည်။ အထူးသဖြင့် အခမဲ့သို့မဟုတ် လက်မဲ့သော မောက်စ်များအထိ တိုးတက်လာသလို၊
+
+Generated UTC: Sun Oct 18 07:08:42 UTC 2026
