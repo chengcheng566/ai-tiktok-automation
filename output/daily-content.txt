@@ -1,13 +1,10 @@
 **TITLE**  
-The Most Mind-Blowing Chess Fact You Didn't Know!  
+The Giant Fungus That Covers 3.4 Square Miles  
 
 **HOOK**  
-Did you know there are more possible chess games than atoms in the entire observable universe?  
+Did you know the biggest living thing on Earth isn’t a tree? It’s a fungus!  
 
 **SCRIPT_ENGLISH**  
-Hey, did you know the total number of possible chess games is more than the number of atoms in the entire observable universe? That's over 10^120 different games! Chess really is a universe of its own. Next time you play, remember you’re in a galaxy of moves.  
+"Hey, have you heard about the 'Humongous Fungus' in Oregon? It’s a single organism that covers 3.4 square miles—about 2,700 football fields! This underground network feeds on dead trees, keeps growing, and is older than any living tree we know. Imagine a living thing that’s been around for over 
 
-**SCRIPT_BURMESE**  
-မင်္ဂလာပါ! ချက်စကာကစားနိုင်တဲ့ အမျိုးအစားအရေအတွက်က အာကာသထဲရှိ အမ်မိုနီတစ်ခုထက်ပိုပါတယ်။ 10^120 ထက်မတိုင်မီကစားနိုင်တဲ့
-
-Generated UTC: Sat Oct 24 07:06:38 UTC 2026
+Generated UTC: Wed Oct 28 08:11:25 UTC 2026
