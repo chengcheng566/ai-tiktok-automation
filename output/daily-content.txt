@@ -1,10 +1,27 @@
 **TITLE**  
-The Giant Fungus That Covers 3.4 Square Miles  
+The Coffee That Costs More Than a Car  
 
 **HOOK**  
-Did you know the biggest living thing on Earth isn’t a tree? It’s a fungus!  
+Did you know there’s a coffee that can set you back a fortune? Let’s see what makes it so pricey!  
 
 **SCRIPT_ENGLISH**  
-"Hey, have you heard about the 'Humongous Fungus' in Oregon? It’s a single organism that covers 3.4 square miles—about 2,700 football fields! This underground network feeds on dead trees, keeps growing, and is older than any living tree we know. Imagine a living thing that’s been around for over 
+1. Show a fancy coffee cup and a price tag.  
+2. “This is Kopi Luwak, the world’s most expensive coffee.”  
+3. Quick cut to a civet eating coffee cherries.  
+4. “The beans travel inside the civet, then we collect, clean, and roast them.”  
+5. End with a steaming cup and a smile.  
 
-Generated UTC: Wed Oct 28 08:11:25 UTC 2026
+**SCRIPT_BURMESE**  
+1. ဖန်တီးထားတဲ့ ချိုကွင်းထဲတွင် မိုက်တစ်ကျပ်ထက်တန်တဲ့ ကော်ဖီကို ပြသပါ။  
+2. “ဒီကော်ဖီက ‘Kopi Luwak’ လို့ခေါ်တယ်၊ ကမ္ဘာ့အတော်ဆုံးတန်ဖိုးရှိတဲ့ ကော်ဖီပါ။”  
+3. တစ်ခါတစ်ရံ civet တစ်ကောင်က ကော်ဖီသီးစားနေတဲ့အခါကို ပြသပါ။  
+4. “အဆိုပါသီးတွေ civet ထဲကနေ ထွက်လာပြီး သန့်ရှင်းပြီး ပူစက်သောက်ရအောင် ပြင်ဆင်တယ်။”  
+5. စီးသွားတဲ့ကော်ဖီတစ်ခွက်နဲ့ မျက်နှာပြင်သုံးပြီး ပြီးဆုံးပါ။  
+
+**CAPTION**  
+💸☕️ From civet poop to a cup of coffee: the story of Kopi Luwak. #CoffeeLovers  
+
+**HASHTAGS**  
+#AmazingFacts #Coffee #KopiLuwak #BizarreCoffee #FunFacts #LearnSomethingNew
+
+Generated UTC: Thu Oct 29 08:18:19 UTC 2026
