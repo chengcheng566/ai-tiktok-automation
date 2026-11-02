@@ -1,27 +1,24 @@
 **TITLE**  
-The Sun’s Hidden Secret: A Giant Bubble of Plasma  
+The Incredible Length of Your DNA
 
 **HOOK**  
-"Did you know the Sun isn’t a solid ball? It’s actually a giant, glowing bubble of hot gas!"
+Did you know one tiny cell can stretch 2 meters long? Let’s see how that works!
 
 **SCRIPT_ENGLISH**  
-- (Clip 1) Show a bright image of the Sun.  
-- (Clip 2) Voice‑over: "The Sun is mostly made of hydrogen and helium—tiny atoms that are so hot they’re turned into plasma, the fourth state of matter."  
-- (Clip 3) Show a quick animation of charged particles moving.  
-- (Clip 4) Voice‑over: "Imagine a huge, invisible balloon that’s constantly expanding and contracting, but it’s still the star that lights our days."  
-- (Clip 5) End with a question: "What would happen if the Sun turned into a solid ball? Let us know in the comments!"
+1. Quick intro: “Hey everyone! Ever wonder how much DNA you have inside you? It’s bigger than you think.”  
+2. Show a 2‑meter ruler on screen.  
+3. Explain: “Every human cell has a DNA strand about 2 meters long. That’s like stretching a strand from one end of a room to the other!”  
+4. Add fun fact: “If you took all the DNA from every cell in your body and laid it end to end, it would reach from Earth to the moon—over 384,000 km!”  
+5. Close: “So next time you look at yourself in the mirror, remember you’re carrying a 2‑meter super‑long super‑tiny string inside you. Amazing, right?”
 
 **SCRIPT_BURMESE**  
-- (Clip 1) မိုးထဲက မီးသွားပုံရိုက်။  
-- (Clip 2) မဟာဗိဇ္ဇာ: “မီးသွားသည် ပုံမှန်လုံးတစ်ခုမဟုတ်ပါဘူး။ အလွန်အမင်းအေးမဲအလင်းဖြစ်တဲ့ ပရိုက်တင်းကဲ့သို့သော အခြေအနေတစ်ခုဖြစ်ပါတယ်။”  
-- (Clip 3) မိုက်ကရိုအောက်ကနေ မီးသွားထဲက လွှမ်းမိုးသည့် မျက်နှာသို့ သွားသည့် သက်တမ်း။  
-- (Clip 4) မဟာဗိဇ္ဇာ: “အံ့မခန်းလှတဲ့ မီးသွားက မီးလုံးတစ်ခုလို ခွဲသွားတတ်တဲ့ မီးလုံးတစ်ခုလိုပဲ။”  
-- (Clip 5) မေးခွန်းတစ်ခုထုတ်: “မီးသွားက တစ်ခုတည်းသော လုံးတစ်ခုဖြစ်လာမယ်ဆိုရင် ဘာဖြစ်သွားမလဲ။ မျှော်လင့်ချက်ကို မှတ်ချက်ထဲထည့်ပါ။”
+1. မင်္ဂလာပါ! မင်္ဂလာပါ။ သင်တစ်ဦးတစ်ဦးတွင် DNA အလျားအကွာ ဘယ်လောက်ကြီးသလဲ စိတ်ဝင်စားလား?  
+2. 2 မီတာ တံတားကိုပြသပါ။  
+3. “တစ်ဦးတစ်လူသားကမ္ဘာတစ်ဝှမ်းတစ်ခုလုံးတွင် 2 မီတာအလျား DNA ရှိတယ်။ အဲဒီအတိုင်း တစ်ထဲတစ်သဲကနေတစ်ထဲတစ်သဲထိ ဆက်သွယ်နိုင်ပါတယ်!”  
+4. “သင့်ခန္ဓာကိုယ်ရှိတဲ့ အားလုံး DNA တစ်စုတစ်ခုပေါင်းပြီး တည်ဆောက်ရင် ကမ္ဘာလုံးထဲက လမထိ 384,000 ကီလိုမီတာထက်ပို ရောက်သွားမယ်။”  
+5. “သင်တစ်ယောက်တစ်လူကမ္ဘာမကြီးတစ်ခုအတွင်း 2 မီတာအလျားကြီးတဲ့ DNA တစ်လမ်းကို ပို့သလို ဖြစ်သလိုပါ။ အံ့မခန်းပါ!”  
 
 **CAPTION**  
-The Sun is a giant, glowing bubble of plasma, not a solid ball. 🌞💫 What would happen if it became solid? Tell us below!  
+Your DNA is longer than a room! 🧬✨ #Amazing
 
-**HASHTAGS**  
-#SpaceFacts #Sun #Plasma #DidYouKnow #ScienceTok #BurmeseScience #AmazingFacts #Shorts #LearnOnTikTok  
-
-Generated UTC: Sun Nov  1 08:59:21 UTC 2026
+Generated UTC: Mon Nov  2 09:13:20 UTC 2026
