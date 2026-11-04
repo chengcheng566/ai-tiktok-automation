@@ -1,24 +1,19 @@
 **TITLE**  
-The Incredible Length of Your DNA
+The Giant Fungus That Covers 2,385 Acres  
 
 **HOOK**  
-Did you know one tiny cell can stretch 2 meters long? Let’s see how that works!
+Think the Amazon is huge? Meet the world’s biggest living thing – a fungus that's bigger than your city!  
 
 **SCRIPT_ENGLISH**  
-1. Quick intro: “Hey everyone! Ever wonder how much DNA you have inside you? It’s bigger than you think.”  
-2. Show a 2‑meter ruler on screen.  
-3. Explain: “Every human cell has a DNA strand about 2 meters long. That’s like stretching a strand from one end of a room to the other!”  
-4. Add fun fact: “If you took all the DNA from every cell in your body and laid it end to end, it would reach from Earth to the moon—over 384,000 km!”  
-5. Close: “So next time you look at yourself in the mirror, remember you’re carrying a 2‑meter super‑long super‑tiny string inside you. Amazing, right?”
+[0‑3s] *Visual of a lush forest, zooming in on a patch of mossy ground.*  
+**Voiceover:** “This isn’t a tree… it’s a fungus!”  
 
-**SCRIPT_BURMESE**  
-1. မင်္ဂလာပါ! မင်္ဂလာပါ။ သင်တစ်ဦးတစ်ဦးတွင် DNA အလျားအကွာ ဘယ်လောက်ကြီးသလဲ စိတ်ဝင်စားလား?  
-2. 2 မီတာ တံတားကိုပြသပါ။  
-3. “တစ်ဦးတစ်လူသားကမ္ဘာတစ်ဝှမ်းတစ်ခုလုံးတွင် 2 မီတာအလျား DNA ရှိတယ်။ အဲဒီအတိုင်း တစ်ထဲတစ်သဲကနေတစ်ထဲတစ်သဲထိ ဆက်သွယ်နိုင်ပါတယ်!”  
-4. “သင့်ခန္ဓာကိုယ်ရှိတဲ့ အားလုံး DNA တစ်စုတစ်ခုပေါင်းပြီး တည်ဆောက်ရင် ကမ္ဘာလုံးထဲက လမထိ 384,000 ကီလိုမီတာထက်ပို ရောက်သွားမယ်။”  
-5. “သင်တစ်ယောက်တစ်လူကမ္ဘာမကြီးတစ်ခုအတွင်း 2 မီတာအလျားကြီးတဲ့ DNA တစ်လမ်းကို ပို့သလို ဖြစ်သလိုပါ။ အံ့မခန်းပါ!”  
+[4‑10s] *Show a map of Oregon, zoom into the Blue Mountains.*  
+**VO:** “In Oregon’s Blue Mountains lives a single organism called Armillaria ostoyae.”  
 
-**CAPTION**  
-Your DNA is longer than a room! 🧬✨ #Amazing
+[11‑18s] *Animation of the fungal mycelium spreading underground.*  
+**VO:** “Its underground network covers about 2,385 acres – that's 8 square kilometers – bigger than the city of Portland!”  
 
-Generated UTC: Mon Nov  2 09:13:20 UTC 2026
+[19‑26s] *Quick shots of mushroom caps popping up
+
+Generated UTC: Wed Nov  4 08:53:17 UTC 2026
