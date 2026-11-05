@@ -1,19 +1,43 @@
 **TITLE**  
-The Giant Fungus That Covers 2,385 Acres  
+Venus Spins Backwards – A Planetary Surprise!
 
 **HOOK**  
-Think the Amazon is huge? Meet the world’s biggest living thing – a fungus that's bigger than your city!  
+Ever seen a planet that goes the opposite direction? Let’s zoom into Venus!
 
 **SCRIPT_ENGLISH**  
-[0‑3s] *Visual of a lush forest, zooming in on a patch of mossy ground.*  
-**Voiceover:** “This isn’t a tree… it’s a fungus!”  
+[0:00‑0:03] *[Clip of a spinning planet animation]*  
+Voiceover: “Most planets spin counter‑clockwise… but Venus is different.”  
 
-[4‑10s] *Show a map of Oregon, zoom into the Blue Mountains.*  
-**VO:** “In Oregon’s Blue Mountains lives a single organism called Armillaria ostoyae.”  
+[0:04‑0:08] *[Show a diagram of Earth and Venus side‑by‑side]*  
+On‑screen text: “Venus: 1/3 the size of Earth”
 
-[11‑18s] *Animation of the fungal mycelium spreading underground.*  
-**VO:** “Its underground network covers about 2,385 acres – that's 8 square kilometers – bigger than the city of Portland!”  
+[0:09‑0:13] Voiceover: “Venus rotates clockwise, the same way it orbits the Sun.”  
 
-[19‑26s] *Quick shots of mushroom caps popping up
+[0:14‑0:18] *[Animation of Venus’s rotation]*  
+On‑screen text: “Backwards spin = Retrograde rotation”
 
-Generated UTC: Wed Nov  4 08:53:17 UTC 2026
+[0:19‑0:23] Voiceover: “That means the Sun rises in the west and sets in the east on Venus!”  
+
+[0:24‑0:28] *[Show a quick graphic of sunrise/sunset on Venus]*  
+On‑screen text: “Sunrise in the West”
+
+[0:29‑0:32] Voiceover: “Scientists think a massive collision in the early solar system caused this odd spin.”  
+
+[0:33‑0:36] *[Show a stylized impact animation]*  
+On‑screen text: “Big crash = new spin”
+
+[0:37‑0:40] Voiceover: “So next time you look up, remember Venus is the rebel of the solar system.”  
+
+[0:41‑0:44] *[End with a planet graphic and a call‑to‑action]*  
+On‑screen text: “Like & follow for more space surprises!”
+
+**SCRIPT_BURMESE**  
+[0:00‑0:03] *[ကမ္ဘာလုံးဆိုင်ရာ planet spinning animation]*  
+Voiceover: “တစ်ခြား planet များသည် counter‑clockwise ဖြင့် spin လုပ်သော်လည်း Venus သည် မတူကဲပါ။”
+
+[0:04‑0:08] *[Earth နှင့် Venus ကို side‑by‑side ဖော်ပြခြင်း]*  
+On‑screen text: “Venus: Earth ၏ 1/3 အရွယ်”
+
+[0:09‑0:13] Voiceover: “Venus သည် clockwise ဖြင့် spin လုပ်ပြီး၊ တစ်သက်ကာလအတွင်းလည်း တစ်သက်က
+
+Generated UTC: Thu Nov  5 09:17:07 UTC 2026
