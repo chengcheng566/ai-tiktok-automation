@@ -1,43 +1,29 @@
 **TITLE**  
-Venus Spins Backwards – A Planetary Surprise!
+Jupiter’s Storm: Bigger Than Earth!
 
 **HOOK**  
-Ever seen a planet that goes the opposite direction? Let’s zoom into Venus!
+Did you know Jupiter’s Great Red Spot is larger than our entire planet?
 
 **SCRIPT_ENGLISH**  
-[0:00‑0:03] *[Clip of a spinning planet animation]*  
-Voiceover: “Most planets spin counter‑clockwise… but Venus is different.”  
-
-[0:04‑0:08] *[Show a diagram of Earth and Venus side‑by‑side]*  
-On‑screen text: “Venus: 1/3 the size of Earth”
-
-[0:09‑0:13] Voiceover: “Venus rotates clockwise, the same way it orbits the Sun.”  
-
-[0:14‑0:18] *[Animation of Venus’s rotation]*  
-On‑screen text: “Backwards spin = Retrograde rotation”
-
-[0:19‑0:23] Voiceover: “That means the Sun rises in the west and sets in the east on Venus!”  
-
-[0:24‑0:28] *[Show a quick graphic of sunrise/sunset on Venus]*  
-On‑screen text: “Sunrise in the West”
-
-[0:29‑0:32] Voiceover: “Scientists think a massive collision in the early solar system caused this odd spin.”  
-
-[0:33‑0:36] *[Show a stylized impact animation]*  
-On‑screen text: “Big crash = new spin”
-
-[0:37‑0:40] Voiceover: “So next time you look up, remember Venus is the rebel of the solar system.”  
-
-[0:41‑0:44] *[End with a planet graphic and a call‑to‑action]*  
-On‑screen text: “Like & follow for more space surprises!”
+0‑3 s: Quick shot of Jupiter with the Great Red Spot highlighted.  
+3‑6 s: “That red spot isn’t a painting – it’s a storm that’s been raging for centuries.”  
+6‑10 s: “It’s about 1.3 million km wide, which means it’s 1.3 times the size of Earth!”  
+10‑12 s: “If you put Earth inside it, you’d still fit another planet in there.”  
+12‑15 s: “Imagine a storm so big you could drive a car around it in a day!”  
+15‑18 s: “Like that? Hit like, share, and follow for more amazing space facts!”
 
 **SCRIPT_BURMESE**  
-[0:00‑0:03] *[ကမ္ဘာလုံးဆိုင်ရာ planet spinning animation]*  
-Voiceover: “တစ်ခြား planet များသည် counter‑clockwise ဖြင့် spin လုပ်သော်လည်း Venus သည် မတူကဲပါ။”
+0‑3 s: Jupiter ကို မီးအမဲလွှာအပြင်က မြင်ရတဲ့ ဗီဒီယို။  
+3‑6 s: “မီးအမဲလွှာက ပန်းချီမဟုတ်ပါဘူး – တစ်ဆယ့်ရာစုကနေ လှုပ်ရှားနေတဲ့ မိုးသဲတစ်ခုပါ။”  
+6‑10 s: “အကျယ်က ၁.၃ သန်းကီလိုမီတာ၊ မြောက်အမေရိကတိုက်ထက် ၁.၃ ဆလောက် ကြီး။”  
+10‑12 s: “Earth ကို ထည့်လိုက်မယ်ဆို ၁.၃ ဆလောက်က အားလုံးသုံးသွားသေးတယ်!”  
+12‑15 s: “တစ်လည်လည် စီးပွားရင်း ၁ ကာလအတွင်း လမ်းကြောင်းတစ်ခုမီးအမဲလွှာအတွင်း သွားနိုင်တယ်ဆိုတာ သင်မထင်ပါဘူး!”  
+15‑18 s: “ထင်ကြိုက်တယ်ဆိုရင် Like, Share, Follow လုပ်ပါ။ ဂြိုဟ်ကမ္ဘာအံ့အားသင့်သောက်သံတစ်ခု ပိုမိုထုတ်လွှင့်မယ်！”
 
-[0:04‑0:08] *[Earth နှင့် Venus ကို side‑by‑side ဖော်ပြခြင်း]*  
-On‑screen text: “Venus: Earth ၏ 1/3 အရွယ်”
+**CAPTION**  
+Jupiter’s Great Red Spot is a gigantic storm—1.3 million km wide, bigger than Earth! 🌍🌌 #SpaceFacts
 
-[0:09‑0:13] Voiceover: “Venus သည် clockwise ဖြင့် spin လုပ်ပြီး၊ တစ်သက်ကာလအတွင်းလည်း တစ်သက်က
+**HASHTAGS**  
+#AmazingFacts #Jupiter #GreatRedSpot #Space #PlanetFacts #LearnOnTikTok #ScienceForAll #BurmeseScience #EnglishLearning #ExploreTheUniverse
 
-Generated UTC: Thu Nov  5 09:17:07 UTC 2026
+Generated UTC: Fri Nov  6 09:10:03 UTC 2026
