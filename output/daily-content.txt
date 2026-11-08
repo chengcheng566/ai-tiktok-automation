@@ -1,29 +1,36 @@
 **TITLE**  
-Jupiter’s Storm: Bigger Than Earth!
+The Eiffel Tower’s Secret Growth
 
 **HOOK**  
-Did you know Jupiter’s Great Red Spot is larger than our entire planet?
+Ever wonder why the Eiffel Tower sometimes gets taller? Let’s uncover its hidden secret!
 
 **SCRIPT_ENGLISH**  
-0‑3 s: Quick shot of Jupiter with the Great Red Spot highlighted.  
-3‑6 s: “That red spot isn’t a painting – it’s a storm that’s been raging for centuries.”  
-6‑10 s: “It’s about 1.3 million km wide, which means it’s 1.3 times the size of Earth!”  
-10‑12 s: “If you put Earth inside it, you’d still fit another planet in there.”  
-12‑15 s: “Imagine a storm so big you could drive a car around it in a day!”  
-15‑18 s: “Like that? Hit like, share, and follow for more amazing space facts!”
+[Scene 1 – Quick shot of the Eiffel Tower]  
+Narrator: “The Eiffel Tower is a famous landmark in Paris, but it has a surprising trick.”  
+
+[Scene 2 – Close‑up of a thermometer]  
+Narrator: “When the sun heats the metal, the iron expands, like a balloon inflating.”  
+
+[Scene 3 – Animated diagram showing expansion]  
+Narrator: “That means the tower can grow up to 15 centimeters (about 6 inches) taller on hot days.”  
+
+[Scene 4 – Return to the tower, zoom out]  
+Narrator: “And when it cools down, it shrinks back to its original height. Nature’s own temperature gauge!”  
+
+[Scene 5 – Call to action]  
+Narrator: “Next time you visit, check the temperature—your view might change a little. Don’t forget to like and share for more amazing facts!”
 
 **SCRIPT_BURMESE**  
-0‑3 s: Jupiter ကို မီးအမဲလွှာအပြင်က မြင်ရတဲ့ ဗီဒီယို။  
-3‑6 s: “မီးအမဲလွှာက ပန်းချီမဟုတ်ပါဘူး – တစ်ဆယ့်ရာစုကနေ လှုပ်ရှားနေတဲ့ မိုးသဲတစ်ခုပါ။”  
-6‑10 s: “အကျယ်က ၁.၃ သန်းကီလိုမီတာ၊ မြောက်အမေရိကတိုက်ထက် ၁.၃ ဆလောက် ကြီး။”  
-10‑12 s: “Earth ကို ထည့်လိုက်မယ်ဆို ၁.၃ ဆလောက်က အားလုံးသုံးသွားသေးတယ်!”  
-12‑15 s: “တစ်လည်လည် စီးပွားရင်း ၁ ကာလအတွင်း လမ်းကြောင်းတစ်ခုမီးအမဲလွှာအတွင်း သွားနိုင်တယ်ဆိုတာ သင်မထင်ပါဘူး!”  
-15‑18 s: “ထင်ကြိုက်တယ်ဆိုရင် Like, Share, Follow လုပ်ပါ။ ဂြိုဟ်ကမ္ဘာအံ့အားသင့်သောက်သံတစ်ခု ပိုမိုထုတ်လွှင့်မယ်！”
+[အမူအရာ ၁ – Eiffel Tower တစ်ခုကို မြင်သာသော ချိတ်သွားသည်]  
+Narrator: “Eiffel Tower သည် ပြင်သစ်နိုင်ငံရဲ့ ထင်ရှားတဲ့ တည်ဆောက်မှုတစ်ခု ဖြစ်သော်လည်း မျှော်လင့်မထားတဲ့ လှုပ်ရှားမှုတစ်ခုရှိတယ်။”  
 
-**CAPTION**  
-Jupiter’s Great Red Spot is a gigantic storm—1.3 million km wide, bigger than Earth! 🌍🌌 #SpaceFacts
+[အမူအရာ ၂ – တိုင်းတာကိရိယာတစ်ခုကို မီးခိုးသွားသည်]  
+Narrator: “နေတော်လှန်တဲ့အခါ သတ္တုသည် ပျံ့ထွားတယ်၊ ဗလုံးက ပူထွားသလို။”  
 
-**HASHTAGS**  
-#AmazingFacts #Jupiter #GreatRedSpot #Space #PlanetFacts #LearnOnTikTok #ScienceForAll #BurmeseScience #EnglishLearning #ExploreTheUniverse
+[အမူအရာ ၃ – ပျံ့ထွားမှုကို ပြသတဲ့ အနုပညာဇယား]  
+Narrator: “ဒီအကြောင်းကြောင့် Eiffel Tower သည် နေ့အပေါ်မူတည်ပြီး ၁၅ စင်တီမီတာ (သို့မဟုတ် ၆ လက်မ) အထက်တိုးတက်နိုင်တယ်။”  
 
-Generated UTC: Fri Nov  6 09:10:03 UTC 2026
+[အမူအရာ ၄ – ထပ်မံသို့ Tower ကို ပြန်သွား၍ ထပ်တိုးတက်သည်]  
+Narrator: “ထိုအခါသနောက်သည် မီးပူနည်းသလို ထပ်တိုးတက်သည်။ သဘာဝက ထိုသို့ တိုင်း
+
+Generated UTC: Sun Nov  8 08:49:49 UTC 2026
