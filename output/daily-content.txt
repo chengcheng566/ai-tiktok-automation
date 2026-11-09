@@ -1,36 +1,39 @@
 **TITLE**  
-The Eiffel Tower’s Secret Growth
+Amazing Facts: The Moon Has Water!
 
 **HOOK**  
-Ever wonder why the Eiffel Tower sometimes gets taller? Let’s uncover its hidden secret!
+Did you know the Moon actually has water? Let’s see how scientists discovered it and what it means!
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – Quick shot of the Eiffel Tower]  
-Narrator: “The Eiffel Tower is a famous landmark in Paris, but it has a surprising trick.”  
+[Scene 1 – Quick shot of a moonlit sky]  
+Narrator: “Most people think the Moon is dry and dusty.”  
 
-[Scene 2 – Close‑up of a thermometer]  
-Narrator: “When the sun heats the metal, the iron expands, like a balloon inflating.”  
+[Scene 2 – Animation of a rock with a tiny water droplet]  
+Narrator: “But in 2009, a NASA spacecraft found a tiny amount of water ice in a crater that never sees the Sun.”  
 
-[Scene 3 – Animated diagram showing expansion]  
-Narrator: “That means the tower can grow up to 15 centimeters (about 6 inches) taller on hot days.”  
+[Scene 3 – Graphic of the crater and the Sun’s light]  
+Narrator: “The darkness keeps the ice from melting, so it stays frozen for millions of years.”  
 
-[Scene 4 – Return to the tower, zoom out]  
-Narrator: “And when it cools down, it shrinks back to its original height. Nature’s own temperature gauge!”  
+[Scene 4 – Quick montage of astronauts and rockets]  
+Narrator: “Why does this matter? Water is essential for life and can be turned into oxygen and rocket fuel.”  
 
-[Scene 5 – Call to action]  
-Narrator: “Next time you visit, check the temperature—your view might change a little. Don’t forget to like and share for more amazing facts!”
+[Scene 5 – Call‑to‑action]  
+Narrator: “So next time you look up, remember the Moon is not just a rock—it’s a treasure chest of water! Like, share, and comment if you’re excited about future space travel!”
 
 **SCRIPT_BURMESE**  
-[အမူအရာ ၁ – Eiffel Tower တစ်ခုကို မြင်သာသော ချိတ်သွားသည်]  
-Narrator: “Eiffel Tower သည် ပြင်သစ်နိုင်ငံရဲ့ ထင်ရှားတဲ့ တည်ဆောက်မှုတစ်ခု ဖြစ်သော်လည်း မျှော်လင့်မထားတဲ့ လှုပ်ရှားမှုတစ်ခုရှိတယ်။”  
+[Scene 1 – ဧရာမထိန်းမင်းသုံးသင်တန်း]  
+Narrator: “အများစုက မုန်တောက မရေသေဟုထင်ပါတယ်။”  
 
-[အမူအရာ ၂ – တိုင်းတာကိရိယာတစ်ခုကို မီးခိုးသွားသည်]  
-Narrator: “နေတော်လှန်တဲ့အခါ သတ္တုသည် ပျံ့ထွားတယ်၊ ဗလုံးက ပူထွားသလို။”  
+[Scene 2 – လောကသင်္ကေတတစ်ခုအောက်တွင် မိုက်ခရိုတစ်ထဲ]  
+Narrator: “2009 ခုနှစ်တွင် NASA ၏ စက်ကိရိယာတစ်ခုက မုန်တော၏အလယ်အလတ်အရာကာလတွင် မိုးသန့်မရှိသောအခန်းတစ်ခုတွင် မိုးသန့်တစ်သို့ထွက်ရှိနေသည့် မုန်တောသဲထဲက ရေသန့်ကိုတွေ့ခဲ့သည်။”  
 
-[အမူအရာ ၃ – ပျံ့ထွားမှုကို ပြသတဲ့ အနုပညာဇယား]  
-Narrator: “ဒီအကြောင်းကြောင့် Eiffel Tower သည် နေ့အပေါ်မူတည်ပြီး ၁၅ စင်တီမီတာ (သို့မဟုတ် ၆ လက်မ) အထက်တိုးတက်နိုင်တယ်။”  
+[Scene 3 – ဦးတည်သတ်မှတ်ချက်]  
+Narrator: “အထဲကအလယ်အလတ်အရာကာလတွင် မုန်တောသဲသည် မီးသို့မဟုတ်မိုးသန့်တစ်ထွက်ကိုမရှိသေးပါ။”  
 
-[အမူအရာ ၄ – ထပ်မံသို့ Tower ကို ပြန်သွား၍ ထပ်တိုးတက်သည်]  
-Narrator: “ထိုအခါသနောက်သည် မီးပူနည်းသလို ထပ်တိုးတက်သည်။ သဘာဝက ထိုသို့ တိုင်း
+[Scene 4 – ပင်လယ်သမီးများနှင့် စွယ်စုံသမီးများ]  
+Narrator: “ဒီလိုသတင်းအချက်အလက်သည် မိုက်ခရိုသမီးများအတွက် အရေးကြီးပါ။ ရေသည် အသက်ရှင်ခြင်းအတွက် အရေးကြီးတဲ့အရာဖြစ်ပြီး၊ မီးသို့မဟုတ် မိုက်ခရိုသမီးများအတွက် လေထုနှင့် လေထုသယ်ယူရာတွင် အသုံးပြုနိုင်သည်။”  
 
-Generated UTC: Sun Nov  8 08:49:49 UTC 2026
+[Scene 5 – Call‑to‑action]  
+Narrator: “အနာဂတ်အတွက် မိုးသန့်တစ်ခုထဲမှာ မုန်တောသည် မိုက်ခရိုသမီးများအတွက် လေထုထဲသို့ မီးသို့မဟုတ် မိုက်ခရိုသမီးများအတွက် လေထ
+
+Generated UTC: Mon Nov  9 09:32:49 UTC 2026
