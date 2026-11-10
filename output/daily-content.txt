@@ -1,39 +1,24 @@
 **TITLE**  
-Amazing Facts: The Moon Has Water!
+The Giant Living Tree: A Fungus That Covers 8,000+ Acres
 
 **HOOK**  
-Did you know the Moon actually has water? Let’s see how scientists discovered it and what it means!
+Did you know the biggest organism on Earth is actually a fungus? Let’s dive into the amazing underground world of the Honey Mushroom!
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – Quick shot of a moonlit sky]  
-Narrator: “Most people think the Moon is dry and dusty.”  
-
-[Scene 2 – Animation of a rock with a tiny water droplet]  
-Narrator: “But in 2009, a NASA spacecraft found a tiny amount of water ice in a crater that never sees the Sun.”  
-
-[Scene 3 – Graphic of the crater and the Sun’s light]  
-Narrator: “The darkness keeps the ice from melting, so it stays frozen for millions of years.”  
-
-[Scene 4 – Quick montage of astronauts and rockets]  
-Narrator: “Why does this matter? Water is essential for life and can be turned into oxygen and rocket fuel.”  
-
-[Scene 5 – Call‑to‑action]  
-Narrator: “So next time you look up, remember the Moon is not just a rock—it’s a treasure chest of water! Like, share, and comment if you’re excited about future space travel!”
+(0‑3 s) “Think trees are the biggest? Think again!”  
+(3‑7 s) “Meet the Honey Mushroom, the largest living thing on Earth.”  
+(7‑12 s) “It’s a fungus that covers about 8,000 acres in Oregon’s Blue Mountains.”  
+(12‑17 s) “Its roots spread underground like a giant sponge, feeding on dead wood.”  
+(17‑20 s) “Scientists say it’s older than a 100‑year‑old oak tree.”  
+(20‑25 s) “So next time you walk in the forest, remember the giant fungus that’s been growing for thousands of years.”  
+(25‑30 s) “Like, share, and follow for more amazing facts!”
 
 **SCRIPT_BURMESE**  
-[Scene 1 – ဧရာမထိန်းမင်းသုံးသင်တန်း]  
-Narrator: “အများစုက မုန်တောက မရေသေဟုထင်ပါတယ်။”  
+(0‑3 s) “သစ်တစ်သီးကအကြီးဆုံးဟုထင်ပါသလား? ထပ်မံမေးကြည့်ပါ!”  
+(3‑7 s) “အကြီးဆုံးတစ်ခုက Honey Mushroom ဟာ သစ်မဟုတ်ပါဘူး၊ မျိုးဆက်တစ်ခုပါ။”  
+(7‑12 s) “ဒါက Oregon Blue Mountains တွင် 8,000 အကယ်ဒ်အကျယ်ရှိတဲ့ fungus တစ်ခုပါ။”  
+(12‑17 s) “အောက်မေတ္တာထဲက root များက အထီးအပေါင်းကနေသွားပြီး သစ်ပင်သေသွားတဲ့အခါသို့သွားကာ တောက်လျှောက်သွားတယ်။”  
+(17‑20 s) “သုတေသနသမားတွေက 100 နှစ်အထက်သစ်တစ်သီးထက်အဟောင်းတဲ့အရွယ်ရှိတယ်လို့ပြောတယ်။”  
+(20‑25 s) “သို့မဟုတ် သစ်တောတစ်
 
-[Scene 2 – လောကသင်္ကေတတစ်ခုအောက်တွင် မိုက်ခရိုတစ်ထဲ]  
-Narrator: “2009 ခုနှစ်တွင် NASA ၏ စက်ကိရိယာတစ်ခုက မုန်တော၏အလယ်အလတ်အရာကာလတွင် မိုးသန့်မရှိသောအခန်းတစ်ခုတွင် မိုးသန့်တစ်သို့ထွက်ရှိနေသည့် မုန်တောသဲထဲက ရေသန့်ကိုတွေ့ခဲ့သည်။”  
-
-[Scene 3 – ဦးတည်သတ်မှတ်ချက်]  
-Narrator: “အထဲကအလယ်အလတ်အရာကာလတွင် မုန်တောသဲသည် မီးသို့မဟုတ်မိုးသန့်တစ်ထွက်ကိုမရှိသေးပါ။”  
-
-[Scene 4 – ပင်လယ်သမီးများနှင့် စွယ်စုံသမီးများ]  
-Narrator: “ဒီလိုသတင်းအချက်အလက်သည် မိုက်ခရိုသမီးများအတွက် အရေးကြီးပါ။ ရေသည် အသက်ရှင်ခြင်းအတွက် အရေးကြီးတဲ့အရာဖြစ်ပြီး၊ မီးသို့မဟုတ် မိုက်ခရိုသမီးများအတွက် လေထုနှင့် လေထုသယ်ယူရာတွင် အသုံးပြုနိုင်သည်။”  
-
-[Scene 5 – Call‑to‑action]  
-Narrator: “အနာဂတ်အတွက် မိုးသန့်တစ်ခုထဲမှာ မုန်တောသည် မိုက်ခရိုသမီးများအတွက် လေထုထဲသို့ မီးသို့မဟုတ် မိုက်ခရိုသမီးများအတွက် လေထ
-
-Generated UTC: Mon Nov  9 09:32:49 UTC 2026
+Generated UTC: Tue Nov 10 09:34:11 UTC 2026
