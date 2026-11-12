@@ -1,24 +1,27 @@
 **TITLE**  
-The Giant Living Tree: A Fungus That Covers 8,000+ Acres
+The Sun Is 109 Times Bigger Than Earth!
 
 **HOOK**  
-Did you know the biggest organism on Earth is actually a fungus? Let’s dive into the amazing underground world of the Honey Mushroom!
+Ever wonder how massive our star really is? Let’s see it in a snap!
 
 **SCRIPT_ENGLISH**  
-(0‑3 s) “Think trees are the biggest? Think again!”  
-(3‑7 s) “Meet the Honey Mushroom, the largest living thing on Earth.”  
-(7‑12 s) “It’s a fungus that covers about 8,000 acres in Oregon’s Blue Mountains.”  
-(12‑17 s) “Its roots spread underground like a giant sponge, feeding on dead wood.”  
-(17‑20 s) “Scientists say it’s older than a 100‑year‑old oak tree.”  
-(20‑25 s) “So next time you walk in the forest, remember the giant fungus that’s been growing for thousands of years.”  
-(25‑30 s) “Like, share, and follow for more amazing facts!”
+0:00‑0:03 – “Hey science lovers, did you know the Sun’s diameter is 109 times Earth's?”  
+0:04‑0:07 – “That means you could line up 109 Earths side‑by‑side and still fit inside the Sun!”  
+0:08‑0:10 – “And its mass? A whopping 330,000 Earths!”  
+0:11‑0:13 – “So next time you look up, remember – you’re looking at a giant that’s over 100 Earths wide.”  
+0:14‑0:15 – “Drop a 🌞 if you’re amazed!”
 
 **SCRIPT_BURMESE**  
-(0‑3 s) “သစ်တစ်သီးကအကြီးဆုံးဟုထင်ပါသလား? ထပ်မံမေးကြည့်ပါ!”  
-(3‑7 s) “အကြီးဆုံးတစ်ခုက Honey Mushroom ဟာ သစ်မဟုတ်ပါဘူး၊ မျိုးဆက်တစ်ခုပါ။”  
-(7‑12 s) “ဒါက Oregon Blue Mountains တွင် 8,000 အကယ်ဒ်အကျယ်ရှိတဲ့ fungus တစ်ခုပါ။”  
-(12‑17 s) “အောက်မေတ္တာထဲက root များက အထီးအပေါင်းကနေသွားပြီး သစ်ပင်သေသွားတဲ့အခါသို့သွားကာ တောက်လျှောက်သွားတယ်။”  
-(17‑20 s) “သုတေသနသမားတွေက 100 နှစ်အထက်သစ်တစ်သီးထက်အဟောင်းတဲ့အရွယ်ရှိတယ်လို့ပြောတယ်။”  
-(20‑25 s) “သို့မဟုတ် သစ်တောတစ်
+0:00‑0:03 – “မင်္ဂလာပါသိပ္ပံမိတ်ဆွေများ။ သင်သိသလား၊ နေထိုင်သည့်အရပ်တစ်ခု၏အရွယ်အစား ၁၀၉ ဆာပေါင်းကြီးကြောင်း?”  
+0:04‑0:07 – “ဒါဆို ၁၀၉ ပတ်လည်ကမ္ဘာကို တစ်ကြောင်းတည်းချဲလိုက်ရင် မသွားနိုင်တဲ့အထောက်အထားပါ!”  
+0:08‑0:10 – “အလေးချိန်ကတော့ ၃၃၀,၀၀၀ ပတ်လည်ကမ္ဘာတန်!”  
+0:11‑0:13 – “အဆိုပါအထောက်အထားသတင်းကို သုံးပြီး နောက်တစ်ခါ မျက်နှာဖုံးထဲကနေ မျက်လုံးမထပ်တင်မီ နေ့တစ်ရက်ကို ပြန်သုံးပါ!”  
+0:14‑0:15 – “🌞 ကိုထပ်မံထုတ်လွှင့်လိုက်ပါ!”
 
-Generated UTC: Tue Nov 10 09:34:11 UTC 2026
+**CAPTION**  
+The Sun is a giant that’s over 100 Earths wide! 🌞 #SpaceFacts
+
+**HASHTAGS**  
+#SpaceFacts #Sun #AmazingScience #TikTokScience #FunFacts #LearnOnTikTok #BurmeseTikTok #GlobalAudience
+
+Generated UTC: Thu Nov 12 09:36:15 UTC 2026
