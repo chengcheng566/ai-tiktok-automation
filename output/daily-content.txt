@@ -1,19 +1,30 @@
 **TITLE**  
-Hot Planet Surprise! 🌞  
+Octopus: 3 Hearts!  
 
 **HOOK**  
-Think Mercury is the hottest planet? Think again!  
+Did you know an octopus has three hearts? Let me show you why!  
 
 **SCRIPT_ENGLISH**  
-Hey space lovers! 🌍 Did you know Venus, the planet next to Earth, is actually hotter than Mercury? Even though it’s farther from the Sun, Venus’s thick carbon‑dioxide atmosphere traps heat like a giant oven. That’s why its surface temperature can reach a scorching 900°F (about 480°C)! Cool, right?  
+[Scene 1 – Close‑up of an octopus in a tank]  
+Voice‑over: “Meet the octopus, the ultimate ocean explorer.”  
+
+[Scene 2 – Animation of the octopus’s body with hearts highlighted]  
+Voice‑over: “It has three hearts. One pumps blood to the whole body, and the other two pump blood to each pair of gills.”  
+
+[Scene 3 – Quick cut to a scientist holding a model]  
+Voice‑over: “When the octopus swims, those two hearts stop beating, so the creature prefers to crawl – it’s less tiring.”  
+
+[Scene 4 – Fun fact text on screen]  
+Text: “If you could see all three hearts, you’d see a beat for every move!”  
+
+[Scene 5 – Call to action]  
+Voice‑over: “Like, share, and follow for more amazing animal facts!”  
 
 **SCRIPT_BURMESE**  
-မင်္ဂလာပါ ဒြပ်စင်လောကမိတ်ဆွေများ! 🌍 မဲရစ်ကာသမားဟာ မိုတစ်ထွန်းထွန်းနေရတယ်လို့ထင်လား? မမေ့ပါနဲ့! မိုတစ်ထွန်းထွန်းဟာ မဲရစ်ကာသမားထက် ပိုမိုအပူမိုကာတယ်။ မဲရစ်ကာသမားထက် မိုတစ်ထွန်းထွန်းက ပိုဝေးကွာသော်လည်း၊ အာရှအာထူးထွက်တဲ့ မိုတစ်ထွန်းထွန်း၏ ဂျပန်တစ်ခုက ပုံစံကောင်းတဲ့ သာယာလူသန်ကာလတစ်ခါသလိုပူပြင်းနေတယ်။ 900°F (480°C) ထိသွားတတ်တယ်! လှပသလား?  
+[အပိုင်း ၁ – တစ်ကန်ထဲက octopus ကို close‑up ဖြင့် ပြသ]  
+အသံထွက်: “အောက်တိုပ်ကို မိတ်ဆက်ပါမယ်၊ ကမ္ဘာ့အကောင်းဆုံး ပင်လယ်ကူးစီးသွားတဲ့ တိရစ္ဆာန်!”  
 
-**CAPTION**  
-The truth about Venus! 🌋 #SpaceFacts  
+[အပိုင်း ၂ – Octopus ခန္ဓာကိုယ်ကို အထူးပြုထားသော animation ဖြင့် နှလုံးသုံးခုကို အထောက်အထားပြသ]  
+အသံထွက်: “ဤတိရစ္ဆာန်တွင် နှလုံးသုံးခုရှိပါတယ်။ တစ်ခုက ခ
 
-**HASHTAGS**  
-#Space #Astronomy #FunFacts #Venus #Planet #Shorts #ScienceFacts  
-
-Generated UTC: Thu Nov 19 10:06:00 UTC 2026
+Generated UTC: Fri Nov 20 10:03:57 UTC 2026
