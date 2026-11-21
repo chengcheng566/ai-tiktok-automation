@@ -1,30 +1,25 @@
 **TITLE**  
-Octopus: 3 Hearts!  
+Coconut: The Ultimate Ocean Survivor  
 
 **HOOK**  
-Did you know an octopus has three hearts? Let me show you why!  
+Did you know a coconut can travel across the ocean and still grow into a tree?  
 
 **SCRIPT_ENGLISH**  
-[Scene 1 – Close‑up of an octopus in a tank]  
-Voice‑over: “Meet the octopus, the ultimate ocean explorer.”  
-
-[Scene 2 – Animation of the octopus’s body with hearts highlighted]  
-Voice‑over: “It has three hearts. One pumps blood to the whole body, and the other two pump blood to each pair of gills.”  
-
-[Scene 3 – Quick cut to a scientist holding a model]  
-Voice‑over: “When the octopus swims, those two hearts stop beating, so the creature prefers to crawl – it’s less tiring.”  
-
-[Scene 4 – Fun fact text on screen]  
-Text: “If you could see all three hearts, you’d see a beat for every move!”  
-
-[Scene 5 – Call to action]  
-Voice‑over: “Like, share, and follow for more amazing animal facts!”  
+- Show a coconut on a beach.  
+- “A coconut is more than just a snack. It’s a tiny life‑support system.”  
+- “When it falls into the sea, the outer shell protects the seed inside.”  
+- “The coconut can float for months, drifting with currents.”  
+- “Once it lands on a new shore, it can sprout into a fresh tree.”  
+- “That’s why coconut palms are found on islands all over the world!”  
 
 **SCRIPT_BURMESE**  
-[အပိုင်း ၁ – တစ်ကန်ထဲက octopus ကို close‑up ဖြင့် ပြသ]  
-အသံထွက်: “အောက်တိုပ်ကို မိတ်ဆက်ပါမယ်၊ ကမ္ဘာ့အကောင်းဆုံး ပင်လယ်ကူးစီးသွားတဲ့ တိရစ္ဆာန်!”  
+- ဂျပန်ထဲက သင်္ကြန်တစ်ခုပေါ်မှာ ပုံတစ်ပုံ ပြသပါ။  
+- “သင်္ကြန်က သာဟာရအဟောင်းတစ်ခုထက်ပိုမိုအရေးပါ။ ဒါက မိမိကိုယ်တိုင်တစ်လုံးလုံးတည်ထိုင်နိုင်တဲ့ အသက်ရှင်စနစ်တစ်ခုပါ။”  
+- “သင်္ကြန်တစ်ခုပြည်လင်းသို့မောင်းသည့်အခါ၊ အထဲက ပုံက အာဟာရအလွှာကိုကာကွယ်ပေးတယ်။”  
+- “သင်္ကြန်က များသောအားဖြင့် မီးသီးတစ်ခုလို လှုပ်ရှားသွားနိုင်တယ်။”  
+- “သင်္ကြန်သစ်တစ်ခုလုံးက မိမိနေရာသို့တစ်နေရာသို့ ရောက်တဲ့အခါ တစ်ထစ်ထုတ်တစ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်”  
+- “ဒါကြောင့် သင်္ကြန်သစ်တွေဟာ ကမ္ဘာတစ်ဝှမ်းရှိ သားသမီးတိုင်းတွင် တွေ့ရတတ်တဲ့အကြောင်းပါ။”  
 
-[အပိုင်း ၂ – Octopus ခန္ဓာကိုယ်ကို အထူးပြုထားသော animation ဖြင့် နှလုံးသုံးခုကို အထောက်အထားပြသ]  
-အသံထွက်: “ဤတိရစ္ဆာန်တွင် နှလုံးသုံးခုရှိပါတယ်။ တစ်ခုက ခ
+**
 
-Generated UTC: Fri Nov 20 10:03:57 UTC 2026
+Generated UTC: Sat Nov 21 09:30:03 UTC 2026
