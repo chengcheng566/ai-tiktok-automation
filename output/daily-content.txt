@@ -1,25 +1,27 @@
 **TITLE**  
-Coconut: The Ultimate Ocean Survivor  
+The Giant Fungal Empire  
 
 **HOOK**  
-Did you know a coconut can travel across the ocean and still grow into a tree?  
+Ever heard of a forest that’s 2,400 years old? It’s not made of trees—it's a fungus!  
 
 **SCRIPT_ENGLISH**  
-- Show a coconut on a beach.  
-- “A coconut is more than just a snack. It’s a tiny life‑support system.”  
-- “When it falls into the sea, the outer shell protects the seed inside.”  
-- “The coconut can float for months, drifting with currents.”  
-- “Once it lands on a new shore, it can sprout into a fresh tree.”  
-- “That’s why coconut palms are found on islands all over the world!”  
+[Clip 1 – Drone shot of a forest]  
+Narrator: “When you think of the biggest living thing on Earth, you probably picture a giant sequoia. But there’s something even bigger—right under our feet.”  
+
+[Clip 2 – Close‑up of soil, spores, and a mushroom]  
+Narrator: “Meet the Armillaria ostoyae, also known as the ‘honey fungus.’ It covers almost four square miles in Oregon’s Blue Mountains.”  
+
+[Clip 3 – Animated map showing the area]  
+Narrator: “That’s 2,400 years old, older than the pyramids of Giza. And it’s all one organism, a network of underground roots that share nutrients like a giant family.”  
+
+[Clip 4 – Time‑lapse of mushroom growth]  
+Narrator: “When it rains, it sends out mushrooms—just the tip of the iceberg. The rest is a hidden, massive forest of fungal threads.”  
+
+[Clip 5 – Closing shot of the forest]  
+Narrator: “So next time you walk through a forest, remember you’re stepping over the world’s largest living organism. Nature is full of surprises!”  
 
 **SCRIPT_BURMESE**  
-- ဂျပန်ထဲက သင်္ကြန်တစ်ခုပေါ်မှာ ပုံတစ်ပုံ ပြသပါ။  
-- “သင်္ကြန်က သာဟာရအဟောင်းတစ်ခုထက်ပိုမိုအရေးပါ။ ဒါက မိမိကိုယ်တိုင်တစ်လုံးလုံးတည်ထိုင်နိုင်တဲ့ အသက်ရှင်စနစ်တစ်ခုပါ။”  
-- “သင်္ကြန်တစ်ခုပြည်လင်းသို့မောင်းသည့်အခါ၊ အထဲက ပုံက အာဟာရအလွှာကိုကာကွယ်ပေးတယ်။”  
-- “သင်္ကြန်က များသောအားဖြင့် မီးသီးတစ်ခုလို လှုပ်ရှားသွားနိုင်တယ်။”  
-- “သင်္ကြန်သစ်တစ်ခုလုံးက မိမိနေရာသို့တစ်နေရာသို့ ရောက်တဲ့အခါ တစ်ထစ်ထုတ်တစ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်တစ်ထစ်ထုတ်ထုတ်ထုတ်တစ်ထစ်ထုတ်”  
-- “ဒါကြောင့် သင်္ကြန်သစ်တွေဟာ ကမ္ဘာတစ်ဝှမ်းရှိ သားသမီးတိုင်းတွင် တွေ့ရတတ်တဲ့အကြောင်းပါ။”  
+[Clip 1 – Drone shot of a forest]  
+Narrator: “သင် မိုးကောင်းတဲ့ သစ်တစ်လုံးဟာ ၂,
 
-**
-
-Generated UTC: Sat Nov 21 09:30:03 UTC 2026
+Generated UTC: Mon Nov 23 10:39:42 UTC 2026
