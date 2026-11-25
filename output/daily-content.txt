@@ -1,27 +1,23 @@
 **TITLE**  
-The Giant Fungal Empire  
+The Tiny Space Traveler: Tardigrade’s Amazing Survival Skills  
 
 **HOOK**  
-Ever heard of a forest that’s 2,400 years old? It’s not made of trees—it's a fungus!  
+Meet the ultimate survivor—this 0.5 mm creature can survive the vacuum of space!  
 
 **SCRIPT_ENGLISH**  
-[Clip 1 – Drone shot of a forest]  
-Narrator: “When you think of the biggest living thing on Earth, you probably picture a giant sequoia. But there’s something even bigger—right under our feet.”  
-
-[Clip 2 – Close‑up of soil, spores, and a mushroom]  
-Narrator: “Meet the Armillaria ostoyae, also known as the ‘honey fungus.’ It covers almost four square miles in Oregon’s Blue Mountains.”  
-
-[Clip 3 – Animated map showing the area]  
-Narrator: “That’s 2,400 years old, older than the pyramids of Giza. And it’s all one organism, a network of underground roots that share nutrients like a giant family.”  
-
-[Clip 4 – Time‑lapse of mushroom growth]  
-Narrator: “When it rains, it sends out mushrooms—just the tip of the iceberg. The rest is a hidden, massive forest of fungal threads.”  
-
-[Clip 5 – Closing shot of the forest]  
-Narrator: “So next time you walk through a forest, remember you’re stepping over the world’s largest living organism. Nature is full of surprises!”  
+[Clip 1: Close‑up of a tardigrade moving on a microscope slide]  
+Voice‑over: “Tiny but mighty, the tardigrade—aka the water bear—measures less than a millimeter.”  
+[Clip 2: Animation of a space shuttle launch]  
+Voice‑over: “In 2007, NASA sent a batch into orbit. They survived the vacuum, cosmic radiation, and even the heat of re‑entry.”  
+[Clip 3: Tardigrade rehydrating on Earth]  
+Voice‑over: “When water returns, they spring back to life in seconds—proof that life can endure the toughest conditions.”  
+[Clip 4: Text overlay]  
+Text: “Space‑ready micro‑hero!”  
 
 **SCRIPT_BURMESE**  
-[Clip 1 – Drone shot of a forest]  
-Narrator: “သင် မိုးကောင်းတဲ့ သစ်တစ်လုံးဟာ ၂,
+[Clip 1: Close‑up of a tardigrade moving on a microscope slide]  
+Voice‑over: “အလေးချိန် 0.5 မီလီမီတာအတွင်းရှိ ဗိုလ်ကောင်းကင်သမားတစ်ယောက်—တာဒီဂရပ်—ကတစ်သက်လုံးကမ္ဘာသို့အထောက်အထားတစ်ခုဖြစ်သည်။”  
+[Clip 2: Animation of a space shuttle launch]  
+Voice‑over: “2007 ခုနှစ်တွင် NASA သည် တာဒီဂရပ်များကိုအာကာသသို့ပို့ခဲ့သည်။ သူတို့သည် အာကာသအလင်းထောက်၊ မိုဃ်းသမီးအလင်းထောက်နှင့် ပြန်လည်ထွက်လာသောအချင်းအလင်းကိုလည်းတစ်
 
-Generated UTC: Mon Nov 23 10:39:42 UTC 2026
+Generated UTC: Wed Nov 25 11:04:08 UTC 2026
