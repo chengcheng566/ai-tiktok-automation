@@ -1,23 +1,32 @@
 **TITLE**  
-The Tiny Space Traveler: Tardigrade’s Amazing Survival Skills  
+Brain vs. Internet: Who Has More Connections?  
 
 **HOOK**  
-Meet the ultimate survivor—this 0.5 mm creature can survive the vacuum of space!  
+Think your brain is powerful? Wait until you hear this!  
 
 **SCRIPT_ENGLISH**  
-[Clip 1: Close‑up of a tardigrade moving on a microscope slide]  
-Voice‑over: “Tiny but mighty, the tardigrade—aka the water bear—measures less than a millimeter.”  
-[Clip 2: Animation of a space shuttle launch]  
-Voice‑over: “In 2007, NASA sent a batch into orbit. They survived the vacuum, cosmic radiation, and even the heat of re‑entry.”  
-[Clip 3: Tardigrade rehydrating on Earth]  
-Voice‑over: “When water returns, they spring back to life in seconds—proof that life can endure the toughest conditions.”  
-[Clip 4: Text overlay]  
-Text: “Space‑ready micro‑hero!”  
+[Scene 1 – Animated brain graphic]  
+Narrator: "Your brain is amazing – it has about 100 trillion connections, called synapses."  
+
+[Scene 2 – Quick cut to a glowing web of internet lines]  
+Narrator: "The whole internet has about 1 trillion connections."  
+
+[Scene 3 – Brain and internet side by side]  
+Narrator: "That means your brain has more connections than the entire internet!"  
+
+[Scene 4 – Brain lighting up]  
+Narrator: "And every second, your brain creates around 1,000 new connections. Talk about a fast learner!"  
+
+[End screen – Call to action]  
+Narrator: "Drop a 💡 if you found this mind‑blowing!"  
 
 **SCRIPT_BURMESE**  
-[Clip 1: Close‑up of a tardigrade moving on a microscope slide]  
-Voice‑over: “အလေးချိန် 0.5 မီလီမီတာအတွင်းရှိ ဗိုလ်ကောင်းကင်သမားတစ်ယောက်—တာဒီဂရပ်—ကတစ်သက်လုံးကမ္ဘာသို့အထောက်အထားတစ်ခုဖြစ်သည်။”  
-[Clip 2: Animation of a space shuttle launch]  
-Voice‑over: “2007 ခုနှစ်တွင် NASA သည် တာဒီဂရပ်များကိုအာကာသသို့ပို့ခဲ့သည်။ သူတို့သည် အာကာသအလင်းထောက်၊ မိုဃ်းသမီးအလင်းထောက်နှင့် ပြန်လည်ထွက်လာသောအချင်းအလင်းကိုလည်းတစ်
+[အခန်း ၁ – မျက်နှာသုံးသွားသော ဦးနှောက်အနုပညာ]  
+Narrator: "သင့် ဦးနှောက်သည် အံ့သြဖွယ်ကောင်းပါသေးတယ် – ၁၀၀ တရီလီယံ ချိတ်ဆက်မှုရှိပါတယ်၊ စင်နက်ပ်ဆိုတဲ့အမည်တစ်ခုလည်းရှိတယ်။"  
 
-Generated UTC: Wed Nov 25 11:04:08 UTC 2026
+[အခန်း ၂ – အလင်းထဲကကွန်ယက်လိုင်းများ]  
+Narrator: "အင်တာနက်လုံးဝက ၁ တရီလီယံ ချိတ်ဆက်မှုတစ်ခုတည်းရှိတယ်။"  
+
+
+
+Generated UTC: Fri Nov 27 10:43:07 UTC 2026
